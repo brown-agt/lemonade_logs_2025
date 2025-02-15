@@ -2,19 +2,19 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 57646) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 58834) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
-Accepted connection from ('127.0.0.1', 38978) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 58850) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 56 seconds remaining
-55 seconds remaining
-Accepted connection from ('127.0.0.1', 38988) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 48952) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
-Accepted connection from ('127.0.0.1', 38992) (ac1f6b766980)
+55 seconds remaining
+Accepted connection from ('127.0.0.1', 48968) (ac1f6b766980)
 TA -- Increment has joined the game 
 
 54 seconds remaining
@@ -73,24 +73,24 @@ TA -- Increment has joined the game
 1 seconds remaining
 I have 4 agents connected and I am starting the Lemonade Stand game
 Extended Results: 
-                Agent 1              Agent 2  ... Agent 3 Score               Winner
-0   TA -- Sticky Agent   TA -- Decrementing  ...           694   TA -- Decrementing
-1   TA -- Sticky Agent   TA -- Decrementing  ...           694   TA -- Decrementing
-2   TA -- Sticky Agent   TA -- Decrementing  ...           694   TA -- Decrementing
-3   TA -- Sticky Agent   TA -- Decrementing  ...           807   TA -- Decrementing
-4   TA -- Sticky Agent   TA -- Decrementing  ...           807   TA -- Decrementing
-5   TA -- Sticky Agent   TA -- Decrementing  ...           807   TA -- Decrementing
-6   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026      TA -- Increment
-7   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026      TA -- Increment
-8   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026      TA -- Increment
-9   TA -- Decrementing  TA -- Reserve Agent  ...           772  TA -- Reserve Agent
-10  TA -- Decrementing  TA -- Reserve Agent  ...           772  TA -- Reserve Agent
-11  TA -- Decrementing  TA -- Reserve Agent  ...           772  TA -- Reserve Agent
+                Agent 1              Agent 2  ... Agent 3 Score              Winner
+0   TA -- Sticky Agent   TA -- Decrementing  ...           694  TA -- Decrementing
+1   TA -- Sticky Agent   TA -- Decrementing  ...           694  TA -- Decrementing
+2   TA -- Sticky Agent   TA -- Decrementing  ...           694  TA -- Decrementing
+3   TA -- Sticky Agent   TA -- Decrementing  ...           807  TA -- Decrementing
+4   TA -- Sticky Agent   TA -- Decrementing  ...           807  TA -- Decrementing
+5   TA -- Sticky Agent   TA -- Decrementing  ...           807  TA -- Decrementing
+6   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026     TA -- Increment
+7   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026     TA -- Increment
+8   TA -- Sticky Agent  TA -- Reserve Agent  ...          1026     TA -- Increment
+9   TA -- Decrementing  TA -- Reserve Agent  ...           807  TA -- Decrementing
+10  TA -- Decrementing  TA -- Reserve Agent  ...           807  TA -- Decrementing
+11  TA -- Decrementing  TA -- Reserve Agent  ...           807  TA -- Decrementing
 
 [12 rows x 7 columns]
             Agent Name  Average Utility  Final Score
-1   TA -- Decrementing       870.333333     8.617162
-3      TA -- Increment       868.333333     8.597360
-2  TA -- Reserve Agent       754.000000     7.465347
-0   TA -- Sticky Agent       739.333333     7.320132
-Server ran in 61.85361051559448 seconds
+1   TA -- Decrementing       881.333333     8.726073
+3      TA -- Increment       880.000000     8.712871
+0   TA -- Sticky Agent       740.000000     7.326733
+2  TA -- Reserve Agent       730.666667     7.234323
+Server ran in 61.752368450164795 seconds
