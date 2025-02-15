@@ -1,15 +1,4 @@
-My name is TA -- Sticky Agent
-We are playing Lemonade Stand
-Game 1:
-I am currently playing against TA -- Decrementing and TA -- Reserve Agent
-TA -- Sticky Agent set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-TA -- Sticky Agent got a total utility of 708 and a average utility of 7.08
-Game 2:
-I am currently playing against TA -- Decrementing and TA -- Increment
-TA -- Sticky Agent set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-TA -- Sticky Agent got a total utility of 804 and a average utility of 8.04
-Game 3:
-I am currently playing against TA -- Reserve Agent and TA -- Increment
-TA -- Sticky Agent set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-TA -- Sticky Agent got a total utility of 762 and a average utility of 7.62
-Please check in with your Lab TA for the results
+Traceback (most recent call last):
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1002/my_agent.py", line 1, in <module>
+    from agt_server.agents.base_agents.lemonade_agent import LemonadeAgent
+ModuleNotFoundError: No module named 'agt_server'
