@@ -1,4 +1,7 @@
-Traceback (most recent call last):
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1001/my_agent.py", line 1, in <module>
-    from agt_server.agents.base_agents.lemonade_agent import LemonadeAgent
-ModuleNotFoundError: No module named 'agt_server'
+My name is TA -- Reserve Agent
+We are playing Lemonade Stand
+Game 1:
+I am currently playing against TA -- Decrementing and TA -- Reserve Agent
+TA -- Reserve Agent set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 100 times.
+TA -- Reserve Agent got a total utility of 804 and a average utility of 8.04
+Please check in with your Lab TA for the results

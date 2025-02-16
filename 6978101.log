@@ -2,8 +2,18 @@ Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/my_agent.py", line 1, in <module>
     from my_rl_lemonade_agent import rl_agent_submission 
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/my_rl_lemonade_agent.py", line 1, in <module>
-    from q_learning import QLearning
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/q_learning.py", line 4, in <module>
-    from agt_server.agents.base_agents.lemonade_agent import LemonadeAgent
-ModuleNotFoundError: No module named 'agt_server'
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/my_rl_lemonade_agent.py", line 42, in <module>
+    rl_agent_submission = MyRLAgent(name, NUM_POSSIBLE_STATES, NUM_POSSIBLE_ACTIONS,
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/my_rl_lemonade_agent.py", line 11, in __init__
+    super().__init__(name, num_possible_states, num_possible_actions, initial_state,
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/q_learning.py", line 18, in __init__
+    super().__init__(name)
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/agents/base_agents/lemonade_agent.py", line 11, in __init__
+    super().__init__(name, timestamp)
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/agents/base_agents/agent.py", line 18, in __init__
+    self.setup()
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6978101/submission/q_learning.py", line 27, in setup
+    assert self.q.shape[0] == self.num_possible_states, "The Saved Q-Table has a different number of states than inputed, To train on the new states please delete the Saved Q-Table"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: The Saved Q-Table has a different number of states than inputed, To train on the new states please delete the Saved Q-Table

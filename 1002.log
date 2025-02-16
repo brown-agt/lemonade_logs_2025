@@ -1,4 +1,6 @@
 Traceback (most recent call last):
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1002/my_agent.py", line 1, in <module>
-    from agt_server.agents.base_agents.lemonade_agent import LemonadeAgent
-ModuleNotFoundError: No module named 'agt_server'
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1002/my_agent.py", line 34, in <module>
+    agent_submission.connect(ip=args.ip, port=args.port)
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/agents/base_agents/agent.py", line 49, in connect
+    self.client.connect((ip, port))
+ConnectionRefusedError: [Errno 111] Connection refused
