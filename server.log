@@ -2,30 +2,30 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 32856) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 53544) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
-Accepted connection from ('127.0.0.1', 32870) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 53552) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 56 seconds remaining
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 32882) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59264) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
 54 seconds remaining
-Accepted connection from ('127.0.0.1', 32892) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59268) (ac1f6b766980)
 RANDOM has joined the game 
 
 53 seconds remaining
-Accepted connection from ('127.0.0.1', 32898) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59280) (ac1f6b766980)
 llama has joined the game 
 
-Accepted connection from ('127.0.0.1', 32904) (ac1f6b766980)
+52 seconds remaining
+Accepted connection from ('127.0.0.1', 59294) (ac1f6b766980)
 TA -- Increment has joined the game 
 
-52 seconds remaining
 51 seconds remaining
 50 seconds remaining
 49 seconds remaining
@@ -104,9 +104,9 @@ Extended Results:
 21  TA -- Reserve Agent  ...  TA -- Reserve Agent
 22  TA -- Reserve Agent  ...  TA -- Reserve Agent
 23  TA -- Reserve Agent  ...  TA -- Reserve Agent
-24   TA -- Sticky Agent  ...  TA -- Reserve Agent
-25   TA -- Sticky Agent  ...  TA -- Reserve Agent
-26   TA -- Sticky Agent  ...  TA -- Reserve Agent
+24   TA -- Sticky Agent  ...               RANDOM
+25   TA -- Sticky Agent  ...               RANDOM
+26   TA -- Sticky Agent  ...               RANDOM
 27   TA -- Decrementing  ...      TA -- Increment
 28   TA -- Decrementing  ...      TA -- Increment
 29   TA -- Decrementing  ...      TA -- Increment
@@ -116,24 +116,24 @@ Extended Results:
 33   TA -- Sticky Agent  ...  TA -- Reserve Agent
 34   TA -- Sticky Agent  ...  TA -- Reserve Agent
 35   TA -- Sticky Agent  ...  TA -- Reserve Agent
-36   TA -- Sticky Agent  ...   TA -- Sticky Agent
-37   TA -- Sticky Agent  ...   TA -- Sticky Agent
-38   TA -- Sticky Agent  ...   TA -- Sticky Agent
+36   TA -- Sticky Agent  ...  TA -- Reserve Agent
+37   TA -- Sticky Agent  ...  TA -- Reserve Agent
+38   TA -- Sticky Agent  ...  TA -- Reserve Agent
 39   TA -- Decrementing  ...               RANDOM
 40   TA -- Decrementing  ...               RANDOM
 41   TA -- Decrementing  ...               RANDOM
-42   TA -- Decrementing  ...   TA -- Decrementing
-43   TA -- Decrementing  ...   TA -- Decrementing
-44   TA -- Decrementing  ...   TA -- Decrementing
+42   TA -- Decrementing  ...  TA -- Reserve Agent
+43   TA -- Decrementing  ...  TA -- Reserve Agent
+44   TA -- Decrementing  ...  TA -- Reserve Agent
 45   TA -- Sticky Agent  ...               RANDOM
 46   TA -- Sticky Agent  ...               RANDOM
 47   TA -- Sticky Agent  ...               RANDOM
 48   TA -- Sticky Agent  ...   TA -- Sticky Agent
 49   TA -- Sticky Agent  ...   TA -- Sticky Agent
 50   TA -- Sticky Agent  ...   TA -- Sticky Agent
-51   TA -- Decrementing  ...   TA -- Decrementing
-52   TA -- Decrementing  ...   TA -- Decrementing
-53   TA -- Decrementing  ...   TA -- Decrementing
+51   TA -- Decrementing  ...  TA -- Reserve Agent
+52   TA -- Decrementing  ...  TA -- Reserve Agent
+53   TA -- Decrementing  ...  TA -- Reserve Agent
 54   TA -- Decrementing  ...  TA -- Reserve Agent
 55   TA -- Decrementing  ...  TA -- Reserve Agent
 56   TA -- Decrementing  ...  TA -- Reserve Agent
@@ -143,10 +143,10 @@ Extended Results:
 
 [60 rows x 7 columns]
             Agent Name  Average Utility  Final Score
-3               RANDOM            878.5     8.698020
-2  TA -- Reserve Agent            867.5     8.589109
-5      TA -- Increment            833.4     8.251485
-1   TA -- Decrementing            806.5     7.985149
-0   TA -- Sticky Agent            764.0     7.564356
-4                llama            698.1     6.911881
-Server ran in 63.26202416419983 seconds
+3               RANDOM            880.9     8.721782
+2  TA -- Reserve Agent            840.7     8.323762
+1   TA -- Decrementing            834.0     8.257426
+5      TA -- Increment            812.7     8.046535
+0   TA -- Sticky Agent            773.1     7.654455
+4                llama            706.6     6.996040
+Server ran in 63.2644464969635 seconds
