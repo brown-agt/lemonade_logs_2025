@@ -1,12 +1,12 @@
 Game 1: llama VS Bug1 VS Bug2
-llama set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 999 times.
+llama set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 1 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 999 times.
 llama got a total utility of 12000 and a average utility of 12.0
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug1 got a total utility of 6000 and a average utility of 6.0
 Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug2 got a total utility of 6000 and a average utility of 6.0
 Game 2: llama VS Bug1 VS Bug3
-llama set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 1 times, and Location 11 999 times.
+llama set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 1 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 999 times.
 llama got a total utility of 12000 and a average utility of 12.0
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug1 got a total utility of 6000 and a average utility of 6.0
@@ -27,7 +27,7 @@ Bug2 got a total utility of 6002 and a average utility of 6.002
 Bug3 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug3 got a total utility of 6002 and a average utility of 6.002
 Game 5: llama VS Bug2 VS Bug4
-llama set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 1 times, Location 10 0 times, and Location 11 999 times.
+llama set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 999 times.
 llama got a total utility of 12000 and a average utility of 12.0
 Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug2 got a total utility of 6000 and a average utility of 6.0
