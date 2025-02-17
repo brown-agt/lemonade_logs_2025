@@ -1,123 +1,159 @@
 My name is PLEASE NAME ME D:
 We are playing Lemonade Stand
 Game 1:
-I am currently playing against llama and AgentRL
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 3 times, Location 1 7 times, Location 2 8 times, Location 3 4 times, Location 4 6 times, Location 5 25 times, Location 6 5 times, Location 7 10 times, Location 8 8 times, Location 9 14 times, Location 10 8 times, and Location 11 2 times.
-PLEASE NAME ME D: got a total utility of 765 and a average utility of 7.65
+I am currently playing against llama and Worst Agent Ever
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 2 times, Location 1 10 times, Location 2 10 times, Location 3 12 times, Location 4 5 times, Location 5 12 times, Location 6 10 times, Location 7 8 times, Location 8 9 times, Location 9 8 times, Location 10 6 times, and Location 11 8 times.
+PLEASE NAME ME D: got a total utility of 768 and a average utility of 7.68
 Game 2:
-I am currently playing against llama and TA -- Increment
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 7 times, Location 1 10 times, Location 2 10 times, Location 3 15 times, Location 4 9 times, Location 5 16 times, Location 6 6 times, Location 7 8 times, Location 8 3 times, Location 9 4 times, Location 10 9 times, and Location 11 3 times.
-PLEASE NAME ME D: got a total utility of 797 and a average utility of 7.97
+I am currently playing against llama and AgentRL
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 5 times, Location 1 4 times, Location 2 10 times, Location 3 6 times, Location 4 10 times, Location 5 17 times, Location 6 15 times, Location 7 5 times, Location 8 7 times, Location 9 13 times, Location 10 6 times, and Location 11 2 times.
+PLEASE NAME ME D: got a total utility of 819 and a average utility of 8.19
 Game 3:
-I am currently playing against AgentRL and TA -- Increment
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1 times, Location 3 34 times, Location 4 16 times, Location 5 32 times, Location 6 0 times, Location 7 17 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 713 and a average utility of 7.13
+I am currently playing against llama and TA -- Increment
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 4 times, Location 1 6 times, Location 2 13 times, Location 3 14 times, Location 4 6 times, Location 5 10 times, Location 6 7 times, Location 7 11 times, Location 8 9 times, Location 9 8 times, Location 10 10 times, and Location 11 2 times.
+PLEASE NAME ME D: got a total utility of 773 and a average utility of 7.73
 Game 4:
-I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 49 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 50 times.
-PLEASE NAME ME D: got a total utility of 617 and a average utility of 6.17
+I am currently playing against Worst Agent Ever and AgentRL
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 7 times, Location 1 8 times, Location 2 9 times, Location 3 7 times, Location 4 8 times, Location 5 14 times, Location 6 6 times, Location 7 10 times, Location 8 13 times, Location 9 9 times, Location 10 7 times, and Location 11 2 times.
+PLEASE NAME ME D: got a total utility of 805 and a average utility of 8.05
 Game 5:
-I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1 times, Location 3 16 times, Location 4 17 times, Location 5 0 times, Location 6 16 times, Location 7 0 times, Location 8 17 times, Location 9 17 times, Location 10 16 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 892 and a average utility of 8.92
-Game 6:
-I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 2 times, Location 2 0 times, Location 3 17 times, Location 4 16 times, Location 5 0 times, Location 6 15 times, Location 7 1 times, Location 8 17 times, Location 9 16 times, Location 10 15 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 816 and a average utility of 8.16
-Game 7:
-I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 98 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 865 and a average utility of 8.65
-Game 8:
-I am currently playing against PLEASE NAME ME D: and Ilan
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 3 times, Location 1 0 times, Location 2 44 times, Location 3 3 times, Location 4 0 times, Location 5 0 times, Location 6 3 times, Location 7 1 times, Location 8 0 times, Location 9 46 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 614 and a average utility of 6.14
-Game 9:
-I am currently playing against PLEASE NAME ME D: and Ilan
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 34 times, Location 3 0 times, Location 4 0 times, Location 5 29 times, Location 6 1 times, Location 7 0 times, Location 8 0 times, Location 9 34 times, Location 10 1 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 840 and a average utility of 8.4
-Game 10:
-I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 25 times, Location 2 25 times, Location 3 25 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 25 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 900 and a average utility of 9.0
-Game 11:
-I am currently playing against PLEASE NAME ME D: and Ilan
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 2 times, Location 1 23 times, Location 2 23 times, Location 3 0 times, Location 4 1 times, Location 5 22 times, Location 6 2 times, Location 7 2 times, Location 8 0 times, Location 9 25 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 786 and a average utility of 7.86
-Game 12:
-I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1 times, Location 3 16 times, Location 4 17 times, Location 5 0 times, Location 6 16 times, Location 7 0 times, Location 8 17 times, Location 9 17 times, Location 10 16 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 825 and a average utility of 8.25
-Game 13:
 I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
 PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 50 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 50 times.
-PLEASE NAME ME D: got a total utility of 785 and a average utility of 7.85
-Game 14:
+PLEASE NAME ME D: got a total utility of 609 and a average utility of 6.09
+Game 6:
+I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 16 times, Location 4 17 times, Location 5 0 times, Location 6 16 times, Location 7 0 times, Location 8 18 times, Location 9 16 times, Location 10 16 times, and Location 11 1 times.
+PLEASE NAME ME D: got a total utility of 896 and a average utility of 8.96
+Game 7:
+I am currently playing against PLEASE NAME ME D: and eugene
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 4 times, Location 1 7 times, Location 2 7 times, Location 3 16 times, Location 4 8 times, Location 5 17 times, Location 6 9 times, Location 7 11 times, Location 8 6 times, Location 9 6 times, Location 10 5 times, and Location 11 4 times.
+PLEASE NAME ME D: got a total utility of 827 and a average utility of 8.27
+Game 8:
+I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 0 times, Location 3 17 times, Location 4 16 times, Location 5 2 times, Location 6 16 times, Location 7 0 times, Location 8 17 times, Location 9 16 times, Location 10 15 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 872 and a average utility of 8.72
+Game 9:
+I am currently playing against Worst Agent Ever and TA -- Increment
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 2 times, Location 1 3 times, Location 2 7 times, Location 3 21 times, Location 4 8 times, Location 5 8 times, Location 6 9 times, Location 7 9 times, Location 8 10 times, Location 9 11 times, Location 10 6 times, and Location 11 6 times.
+PLEASE NAME ME D: got a total utility of 788 and a average utility of 7.88
+Game 10:
+I am currently playing against AgentRL and TA -- Increment
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 2 times, Location 2 2 times, Location 3 29 times, Location 4 16 times, Location 5 29 times, Location 6 2 times, Location 7 17 times, Location 8 1 times, Location 9 1 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 735 and a average utility of 7.35
+Game 11:
+I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 25 times, Location 2 25 times, Location 3 25 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 25 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 800 and a average utility of 8.0
+Game 12:
 I am currently playing against PLEASE NAME ME D: and Ilan
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 4 times, Location 3 0 times, Location 4 1 times, Location 5 89 times, Location 6 1 times, Location 7 1 times, Location 8 0 times, Location 9 3 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 605 and a average utility of 6.05
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 16 times, Location 3 0 times, Location 4 2 times, Location 5 61 times, Location 6 0 times, Location 7 3 times, Location 8 0 times, Location 9 16 times, Location 10 1 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 671 and a average utility of 6.71
+Game 13:
+I am currently playing against eugene and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 8 times, Location 2 8 times, Location 3 9 times, Location 4 10 times, Location 5 15 times, Location 6 8 times, Location 7 6 times, Location 8 9 times, Location 9 15 times, Location 10 7 times, and Location 11 5 times.
+PLEASE NAME ME D: got a total utility of 791 and a average utility of 7.91
+Game 14:
+I am currently playing against RANDOM and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 19 times, Location 1 0 times, Location 2 20 times, Location 3 20 times, Location 4 0 times, Location 5 20 times, Location 6 1 times, Location 7 0 times, Location 8 0 times, Location 9 20 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 659 and a average utility of 6.59
 Game 15:
 I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 49 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 50 times.
-PLEASE NAME ME D: got a total utility of 606 and a average utility of 6.06
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 25 times, Location 2 25 times, Location 3 25 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 25 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 550 and a average utility of 5.5
 Game 16:
-I am currently playing against Ilan and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 2 times, Location 3 0 times, Location 4 0 times, Location 5 24 times, Location 6 25 times, Location 7 25 times, Location 8 0 times, Location 9 24 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 873 and a average utility of 8.73
+I am currently playing against PLEASE NAME ME D: and Ilan
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 34 times, Location 3 1 times, Location 4 1 times, Location 5 26 times, Location 6 1 times, Location 7 1 times, Location 8 2 times, Location 9 33 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 792 and a average utility of 7.92
 Game 17:
-I am currently playing against Ilan and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 2 times, Location 3 0 times, Location 4 0 times, Location 5 24 times, Location 6 24 times, Location 7 25 times, Location 8 1 times, Location 9 24 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 1069 and a average utility of 10.69
+I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 50 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 50 times.
+PLEASE NAME ME D: got a total utility of 782 and a average utility of 7.82
 Game 18:
-I am currently playing against TA -- Sticky Agent and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 3 times, Location 3 46 times, Location 4 46 times, Location 5 3 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1 times.
-PLEASE NAME ME D: got a total utility of 834 and a average utility of 8.34
+I am currently playing against PLEASE NAME ME D: and Ilan
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 38 times, Location 3 1 times, Location 4 1 times, Location 5 16 times, Location 6 1 times, Location 7 1 times, Location 8 1 times, Location 9 40 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 641 and a average utility of 6.41
 Game 19:
-I am currently playing against TA -- Sticky Agent and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1 times, Location 3 49 times, Location 4 49 times, Location 5 1 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 684 and a average utility of 6.84
+I am currently playing against TA -- Decrementing and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 16 times, Location 1 1 times, Location 2 1 times, Location 3 15 times, Location 4 16 times, Location 5 16 times, Location 6 1 times, Location 7 3 times, Location 8 0 times, Location 9 16 times, Location 10 15 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 873 and a average utility of 8.73
 Game 20:
-I am currently playing against PLEASE NAME ME D: and TA -- Reserve Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 50 times, Location 5 50 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 805 and a average utility of 8.05
+I am currently playing against TA -- Reserve Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 0 times, Location 3 33 times, Location 4 1 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 33 times, Location 9 0 times, Location 10 0 times, and Location 11 32 times.
+PLEASE NAME ME D: got a total utility of 884 and a average utility of 8.84
 Game 21:
-I am currently playing against PLEASE NAME ME D: and TA -- Reserve Agent
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 1 times, Location 3 47 times, Location 4 0 times, Location 5 46 times, Location 6 1 times, Location 7 1 times, Location 8 1 times, Location 9 1 times, Location 10 1 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 855 and a average utility of 8.55
+I am currently playing against PLEASE NAME ME D: and TA -- Sticky Agent
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 25 times, Location 2 25 times, Location 3 25 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 25 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 700 and a average utility of 7.0
 Game 22:
-I am currently playing against PLEASE NAME ME D: and eugene
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 9 times, Location 1 10 times, Location 2 8 times, Location 3 8 times, Location 4 8 times, Location 5 5 times, Location 6 10 times, Location 7 11 times, Location 8 5 times, Location 9 12 times, Location 10 9 times, and Location 11 5 times.
-PLEASE NAME ME D: got a total utility of 771 and a average utility of 7.71
+I am currently playing against PLEASE NAME ME D: and Ilan
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 2 times, Location 1 8 times, Location 2 24 times, Location 3 1 times, Location 4 2 times, Location 5 30 times, Location 6 2 times, Location 7 2 times, Location 8 2 times, Location 9 26 times, Location 10 0 times, and Location 11 1 times.
+PLEASE NAME ME D: got a total utility of 827 and a average utility of 8.27
 Game 23:
-I am currently playing against TA -- Reserve Agent and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 50 times, Location 4 50 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 815 and a average utility of 8.15
+I am currently playing against TA -- Sticky Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 49 times, Location 4 49 times, Location 5 0 times, Location 6 0 times, Location 7 1 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 790 and a average utility of 7.9
 Game 24:
-I am currently playing against TA -- Decrementing and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 18 times, Location 1 0 times, Location 2 0 times, Location 3 16 times, Location 4 17 times, Location 5 16 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 17 times, Location 10 16 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 890 and a average utility of 8.9
+I am currently playing against TA -- Sticky Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 0 times, Location 3 49 times, Location 4 49 times, Location 5 1 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 742 and a average utility of 7.42
 Game 25:
-I am currently playing against TA -- Decrementing and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 16 times, Location 1 0 times, Location 2 0 times, Location 3 16 times, Location 4 17 times, Location 5 16 times, Location 6 0 times, Location 7 1 times, Location 8 0 times, Location 9 17 times, Location 10 17 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 936 and a average utility of 9.36
+I am currently playing against TA -- Sticky Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 2 times, Location 3 46 times, Location 4 47 times, Location 5 2 times, Location 6 1 times, Location 7 1 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 760 and a average utility of 7.6
 Game 26:
-I am currently playing against TA -- Reserve Agent and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 99 times, Location 7 0 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-PLEASE NAME ME D: got a total utility of 885 and a average utility of 8.85
+I am currently playing against Ilan and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 1 times, Location 2 0 times, Location 3 0 times, Location 4 1 times, Location 5 25 times, Location 6 24 times, Location 7 23 times, Location 8 0 times, Location 9 25 times, Location 10 1 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 878 and a average utility of 8.78
 Game 27:
-I am currently playing against eugene and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 2 times, Location 1 9 times, Location 2 5 times, Location 3 14 times, Location 4 12 times, Location 5 14 times, Location 6 8 times, Location 7 9 times, Location 8 7 times, Location 9 4 times, Location 10 9 times, and Location 11 7 times.
-PLEASE NAME ME D: got a total utility of 829 and a average utility of 8.29
+I am currently playing against Ilan and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 2 times, Location 2 0 times, Location 3 0 times, Location 4 2 times, Location 5 25 times, Location 6 24 times, Location 7 23 times, Location 8 0 times, Location 9 22 times, Location 10 1 times, and Location 11 1 times.
+PLEASE NAME ME D: got a total utility of 827 and a average utility of 8.27
 Game 28:
-I am currently playing against eugene and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 8 times, Location 2 7 times, Location 3 13 times, Location 4 10 times, Location 5 13 times, Location 6 9 times, Location 7 14 times, Location 8 7 times, Location 9 8 times, Location 10 7 times, and Location 11 3 times.
-PLEASE NAME ME D: got a total utility of 833 and a average utility of 8.33
+I am currently playing against Ilan and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 1 times, Location 4 0 times, Location 5 26 times, Location 6 24 times, Location 7 24 times, Location 8 0 times, Location 9 24 times, Location 10 1 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 1070 and a average utility of 10.7
 Game 29:
-I am currently playing against RANDOM and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 33 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 33 times, Location 9 0 times, Location 10 0 times, and Location 11 34 times.
-PLEASE NAME ME D: got a total utility of 870 and a average utility of 8.7
+I am currently playing against PLEASE NAME ME D: and TA -- Reserve Agent
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 25 times, Location 2 25 times, Location 3 0 times, Location 4 0 times, Location 5 25 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 24 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 598 and a average utility of 5.98
 Game 30:
+I am currently playing against PLEASE NAME ME D: and TA -- Decrementing
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 16 times, Location 2 16 times, Location 3 17 times, Location 4 17 times, Location 5 0 times, Location 6 0 times, Location 7 16 times, Location 8 1 times, Location 9 0 times, Location 10 17 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 868 and a average utility of 8.68
+Game 31:
+I am currently playing against PLEASE NAME ME D: and TA -- Reserve Agent
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 25 times, Location 1 0 times, Location 2 0 times, Location 3 25 times, Location 4 0 times, Location 5 0 times, Location 6 1 times, Location 7 25 times, Location 8 0 times, Location 9 0 times, Location 10 24 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 835 and a average utility of 8.35
+Game 32:
+I am currently playing against TA -- Decrementing and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 15 times, Location 1 0 times, Location 2 2 times, Location 3 17 times, Location 4 16 times, Location 5 15 times, Location 6 0 times, Location 7 1 times, Location 8 2 times, Location 9 15 times, Location 10 17 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 810 and a average utility of 8.1
+Game 33:
+I am currently playing against TA -- Decrementing and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 16 times, Location 1 1 times, Location 2 1 times, Location 3 15 times, Location 4 16 times, Location 5 16 times, Location 6 1 times, Location 7 3 times, Location 8 0 times, Location 9 16 times, Location 10 15 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 932 and a average utility of 9.32
+Game 34:
+I am currently playing against TA -- Reserve Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 1 times, Location 5 0 times, Location 6 50 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 49 times.
+PLEASE NAME ME D: got a total utility of 834 and a average utility of 8.34
+Game 35:
+I am currently playing against TA -- Reserve Agent and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1 times, Location 3 47 times, Location 4 48 times, Location 5 1 times, Location 6 1 times, Location 7 1 times, Location 8 1 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+PLEASE NAME ME D: got a total utility of 735 and a average utility of 7.35
+Game 36:
+I am currently playing against eugene and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 5 times, Location 1 1 times, Location 2 11 times, Location 3 7 times, Location 4 11 times, Location 5 9 times, Location 6 8 times, Location 7 9 times, Location 8 7 times, Location 9 12 times, Location 10 12 times, and Location 11 8 times.
+PLEASE NAME ME D: got a total utility of 829 and a average utility of 8.29
+Game 37:
+I am currently playing against eugene and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 8 times, Location 1 12 times, Location 2 10 times, Location 3 7 times, Location 4 9 times, Location 5 8 times, Location 6 8 times, Location 7 10 times, Location 8 5 times, Location 9 8 times, Location 10 10 times, and Location 11 5 times.
+PLEASE NAME ME D: got a total utility of 801 and a average utility of 8.01
+Game 38:
 I am currently playing against RANDOM and PLEASE NAME ME D:
-PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 33 times, Location 4 0 times, Location 5 1 times, Location 6 0 times, Location 7 0 times, Location 8 32 times, Location 9 1 times, Location 10 0 times, and Location 11 33 times.
-PLEASE NAME ME D: got a total utility of 828 and a average utility of 8.28
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 19 times, Location 3 20 times, Location 4 0 times, Location 5 20 times, Location 6 0 times, Location 7 0 times, Location 8 1 times, Location 9 20 times, Location 10 19 times, and Location 11 1 times.
+PLEASE NAME ME D: got a total utility of 820 and a average utility of 8.2
+Game 39:
+I am currently playing against RANDOM and PLEASE NAME ME D:
+PLEASE NAME ME D: set up their Lemonade Stand at Location 0 1 times, Location 1 0 times, Location 2 1 times, Location 3 33 times, Location 4 1 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 32 times, Location 9 0 times, Location 10 0 times, and Location 11 32 times.
+PLEASE NAME ME D: got a total utility of 790 and a average utility of 7.9
 Please check in with your Lab TA for the results
