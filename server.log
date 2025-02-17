@@ -2,30 +2,30 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-57 seconds remaining
-Accepted connection from ('127.0.0.1', 44388) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 33942) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
-56 seconds remaining
-Accepted connection from ('127.0.0.1', 40844) (ac1f6b766980)
+57 seconds remaining
+Accepted connection from ('127.0.0.1', 33950) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
+56 seconds remaining
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 40852) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 52986) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
 54 seconds remaining
-53 seconds remaining
-Accepted connection from ('127.0.0.1', 40856) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 52996) (ac1f6b766980)
 RANDOM has joined the game 
 
-52 seconds remaining
-Accepted connection from ('127.0.0.1', 40866) (ac1f6b766980)
+53 seconds remaining
+Accepted connection from ('127.0.0.1', 53012) (ac1f6b766980)
 llama has joined the game 
 
-Accepted connection from ('127.0.0.1', 40876) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 53018) (ac1f6b766980)
 TA -- Increment has joined the game 
 
+52 seconds remaining
 51 seconds remaining
 50 seconds remaining
 49 seconds remaining
@@ -83,27 +83,27 @@ Extended Results:
 0    TA -- Sticky Agent  ...   TA -- Decrementing
 1    TA -- Sticky Agent  ...   TA -- Decrementing
 2    TA -- Sticky Agent  ...   TA -- Decrementing
-3                RANDOM  ...      TA -- Increment
-4                RANDOM  ...      TA -- Increment
-5                RANDOM  ...      TA -- Increment
-6    TA -- Sticky Agent  ...               RANDOM
-7    TA -- Sticky Agent  ...               RANDOM
-8    TA -- Sticky Agent  ...               RANDOM
-9   TA -- Reserve Agent  ...      TA -- Increment
-10  TA -- Reserve Agent  ...      TA -- Increment
-11  TA -- Reserve Agent  ...      TA -- Increment
-12  TA -- Reserve Agent  ...  TA -- Reserve Agent
-13  TA -- Reserve Agent  ...  TA -- Reserve Agent
-14  TA -- Reserve Agent  ...  TA -- Reserve Agent
-15   TA -- Sticky Agent  ...   TA -- Decrementing
-16   TA -- Sticky Agent  ...   TA -- Decrementing
-17   TA -- Sticky Agent  ...   TA -- Decrementing
-18   TA -- Sticky Agent  ...   TA -- Decrementing
-19   TA -- Sticky Agent  ...   TA -- Decrementing
-20   TA -- Sticky Agent  ...   TA -- Decrementing
-21  TA -- Reserve Agent  ...  TA -- Reserve Agent
-22  TA -- Reserve Agent  ...  TA -- Reserve Agent
-23  TA -- Reserve Agent  ...  TA -- Reserve Agent
+3                RANDOM  ...               RANDOM
+4                RANDOM  ...               RANDOM
+5                RANDOM  ...               RANDOM
+6    TA -- Sticky Agent  ...   TA -- Sticky Agent
+7    TA -- Sticky Agent  ...   TA -- Sticky Agent
+8    TA -- Sticky Agent  ...   TA -- Sticky Agent
+9   TA -- Reserve Agent  ...                llama
+10  TA -- Reserve Agent  ...                llama
+11  TA -- Reserve Agent  ...                llama
+12   TA -- Sticky Agent  ...   TA -- Decrementing
+13   TA -- Sticky Agent  ...   TA -- Decrementing
+14   TA -- Sticky Agent  ...   TA -- Decrementing
+15  TA -- Reserve Agent  ...  TA -- Reserve Agent
+16  TA -- Reserve Agent  ...  TA -- Reserve Agent
+17  TA -- Reserve Agent  ...  TA -- Reserve Agent
+18  TA -- Reserve Agent  ...  TA -- Reserve Agent
+19  TA -- Reserve Agent  ...  TA -- Reserve Agent
+20  TA -- Reserve Agent  ...  TA -- Reserve Agent
+21   TA -- Sticky Agent  ...   TA -- Decrementing
+22   TA -- Sticky Agent  ...   TA -- Decrementing
+23   TA -- Sticky Agent  ...   TA -- Decrementing
 24   TA -- Sticky Agent  ...   TA -- Sticky Agent
 25   TA -- Sticky Agent  ...   TA -- Sticky Agent
 26   TA -- Sticky Agent  ...   TA -- Sticky Agent
@@ -113,40 +113,40 @@ Extended Results:
 30   TA -- Decrementing  ...               RANDOM
 31   TA -- Decrementing  ...               RANDOM
 32   TA -- Decrementing  ...               RANDOM
-33   TA -- Sticky Agent  ...  TA -- Reserve Agent
-34   TA -- Sticky Agent  ...  TA -- Reserve Agent
-35   TA -- Sticky Agent  ...  TA -- Reserve Agent
-36   TA -- Sticky Agent  ...   TA -- Sticky Agent
-37   TA -- Sticky Agent  ...   TA -- Sticky Agent
-38   TA -- Sticky Agent  ...   TA -- Sticky Agent
+33   TA -- Sticky Agent  ...   TA -- Sticky Agent
+34   TA -- Sticky Agent  ...   TA -- Sticky Agent
+35   TA -- Sticky Agent  ...   TA -- Sticky Agent
+36   TA -- Sticky Agent  ...      TA -- Increment
+37   TA -- Sticky Agent  ...      TA -- Increment
+38   TA -- Sticky Agent  ...      TA -- Increment
 39   TA -- Decrementing  ...               RANDOM
 40   TA -- Decrementing  ...               RANDOM
 41   TA -- Decrementing  ...               RANDOM
-42   TA -- Decrementing  ...   TA -- Decrementing
-43   TA -- Decrementing  ...   TA -- Decrementing
-44   TA -- Decrementing  ...   TA -- Decrementing
+42   TA -- Decrementing  ...  TA -- Reserve Agent
+43   TA -- Decrementing  ...  TA -- Reserve Agent
+44   TA -- Decrementing  ...  TA -- Reserve Agent
 45   TA -- Sticky Agent  ...               RANDOM
 46   TA -- Sticky Agent  ...               RANDOM
 47   TA -- Sticky Agent  ...               RANDOM
-48   TA -- Decrementing  ...   TA -- Decrementing
-49   TA -- Decrementing  ...   TA -- Decrementing
-50   TA -- Decrementing  ...   TA -- Decrementing
-51   TA -- Sticky Agent  ...   TA -- Sticky Agent
-52   TA -- Sticky Agent  ...   TA -- Sticky Agent
-53   TA -- Sticky Agent  ...   TA -- Sticky Agent
-54   TA -- Sticky Agent  ...      TA -- Increment
-55   TA -- Sticky Agent  ...      TA -- Increment
-56   TA -- Sticky Agent  ...      TA -- Increment
-57   TA -- Decrementing  ...  TA -- Reserve Agent
-58   TA -- Decrementing  ...  TA -- Reserve Agent
-59   TA -- Decrementing  ...  TA -- Reserve Agent
+48   TA -- Sticky Agent  ...   TA -- Sticky Agent
+49   TA -- Sticky Agent  ...   TA -- Sticky Agent
+50   TA -- Sticky Agent  ...   TA -- Sticky Agent
+51   TA -- Decrementing  ...  TA -- Reserve Agent
+52   TA -- Decrementing  ...  TA -- Reserve Agent
+53   TA -- Decrementing  ...  TA -- Reserve Agent
+54   TA -- Decrementing  ...  TA -- Reserve Agent
+55   TA -- Decrementing  ...  TA -- Reserve Agent
+56   TA -- Decrementing  ...  TA -- Reserve Agent
+57   TA -- Sticky Agent  ...      TA -- Increment
+58   TA -- Sticky Agent  ...      TA -- Increment
+59   TA -- Sticky Agent  ...      TA -- Increment
 
 [60 rows x 7 columns]
             Agent Name  Average Utility  Final Score
-1   TA -- Decrementing            849.0     8.405941
-3               RANDOM            839.2     8.308911
-2  TA -- Reserve Agent            834.8     8.265347
-0   TA -- Sticky Agent            828.9     8.206931
-5      TA -- Increment            800.9     7.929703
-4                llama            695.2     6.883168
-Server ran in 63.491931200027466 seconds
+3               RANDOM            874.6     8.659406
+2  TA -- Reserve Agent            854.7     8.462376
+0   TA -- Sticky Agent            794.5     7.866337
+1   TA -- Decrementing            784.4     7.766337
+5      TA -- Increment            784.4     7.766337
+4                llama            755.4     7.479208
+Server ran in 63.49751043319702 seconds
