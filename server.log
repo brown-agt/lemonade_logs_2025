@@ -2,47 +2,47 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 36228) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 39896) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
 56 seconds remaining
-Accepted connection from ('127.0.0.1', 36240) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 39912) (ac1f6b766980)
 Ilan has joined the game 
 
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 36248) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 39928) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 54 seconds remaining
-Accepted connection from ('127.0.0.1', 36260) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 39942) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
 53 seconds remaining
 52 seconds remaining
-Accepted connection from ('127.0.0.1', 36264) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 46700) (ac1f6b766980)
 eugene has joined the game 
 
 51 seconds remaining
-Accepted connection from ('127.0.0.1', 36268) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 46710) (ac1f6b766980)
 RANDOM has joined the game 
 
 50 seconds remaining
-Accepted connection from ('127.0.0.1', 38990) (ac1f6b766980)
+49 seconds remaining
+Accepted connection from ('127.0.0.1', 46722) (ac1f6b766980)
 PLEASE NAME ME D: has joined the game 
 
-49 seconds remaining
-Accepted connection from ('127.0.0.1', 39002) (ac1f6b766980)
+48 seconds remaining
+Accepted connection from ('127.0.0.1', 46734) (ac1f6b766980)
 llama has joined the game 
 
-48 seconds remaining
-Accepted connection from ('127.0.0.1', 39018) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 46748) (ac1f6b766980)
 AgentRL has joined the game 
 
-Accepted connection from ('127.0.0.1', 39026) (ac1f6b766980)
+47 seconds remaining
+Accepted connection from ('127.0.0.1', 46754) (ac1f6b766980)
 TA -- Increment has joined the game 
 
-47 seconds remaining
 46 seconds remaining
 45 seconds remaining
 44 seconds remaining
@@ -92,28 +92,28 @@ TA -- Increment has joined the game
 I have 10 agents connected and I am starting the Lemonade Stand game
 Extended Results: 
                   Agent 1            Agent 2  ... Agent 3 Score              Winner
-0    TA -- Reserve Agent             eugene  ...           641              eugene
-1    TA -- Reserve Agent             eugene  ...           641              eugene
-2    TA -- Reserve Agent             eugene  ...           641              eugene
-3     TA -- Sticky Agent               Ilan  ...           625  TA -- Sticky Agent
-4     TA -- Sticky Agent               Ilan  ...           625  TA -- Sticky Agent
+0    TA -- Reserve Agent             eugene  ...           936              RANDOM
+1    TA -- Reserve Agent             eugene  ...           936              RANDOM
+2    TA -- Reserve Agent             eugene  ...           936              RANDOM
+3     TA -- Sticky Agent               Ilan  ...           635  TA -- Sticky Agent
+4     TA -- Sticky Agent               Ilan  ...           635  TA -- Sticky Agent
 ..                   ...                ...  ...           ...                 ...
-355               eugene              llama  ...           911     TA -- Increment
-356               eugene              llama  ...           911     TA -- Increment
-357               RANDOM  PLEASE NAME ME D:  ...           572              RANDOM
-358               RANDOM  PLEASE NAME ME D:  ...           572              RANDOM
-359               RANDOM  PLEASE NAME ME D:  ...           572              RANDOM
+355               eugene              llama  ...           822               llama
+356               eugene              llama  ...           822               llama
+357               RANDOM  PLEASE NAME ME D:  ...          1006   PLEASE NAME ME D:
+358               RANDOM  PLEASE NAME ME D:  ...          1006   PLEASE NAME ME D:
+359               RANDOM  PLEASE NAME ME D:  ...          1006   PLEASE NAME ME D:
 
 [360 rows x 7 columns]
             Agent Name  Average Utility  Final Score
-4                 Ilan       856.777778     8.482948
-3   TA -- Sticky Agent       839.500000     8.311881
-8              AgentRL       832.638889     8.243949
-9      TA -- Increment       825.833333     8.176568
-6    PLEASE NAME ME D:       825.638889     8.174642
-2               RANDOM       815.888889     8.078108
-0  TA -- Reserve Agent       814.222222     8.061606
-1               eugene       799.055556     7.911441
-5   TA -- Decrementing       778.333333     7.706271
-7                llama       692.111111     6.852585
-Server ran in 125.56984663009644 seconds
+4                 Ilan       861.222222     8.526953
+8              AgentRL       859.083333     8.505776
+3   TA -- Sticky Agent       843.500000     8.351485
+2               RANDOM       824.361111     8.161991
+6    PLEASE NAME ME D:       821.111111     8.129813
+1               eugene       809.166667     8.011551
+0  TA -- Reserve Agent       798.527778     7.906216
+9      TA -- Increment       792.583333     7.847360
+5   TA -- Decrementing       786.000000     7.782178
+7                llama       684.444444     6.776678
+Server ran in 136.9546971321106 seconds
