@@ -2,44 +2,44 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 34072) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 56080) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
-Accepted connection from ('127.0.0.1', 34074) (ac1f6b766980)
+56 seconds remaining
+Accepted connection from ('127.0.0.1', 34432) (ac1f6b766980)
 Ilan has joined the game 
 
-56 seconds remaining
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 34090) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34434) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 54 seconds remaining
-Accepted connection from ('127.0.0.1', 34094) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34438) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
 53 seconds remaining
-Accepted connection from ('127.0.0.1', 34110) (ac1f6b766980)
+52 seconds remaining
+Accepted connection from ('127.0.0.1', 34452) (ac1f6b766980)
 eugene has joined the game 
 
-52 seconds remaining
 51 seconds remaining
-Accepted connection from ('127.0.0.1', 34118) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34464) (ac1f6b766980)
 RANDOM has joined the game 
 
 50 seconds remaining
-Accepted connection from ('127.0.0.1', 34120) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34470) (ac1f6b766980)
 PLEASE NAME ME D: has joined the game 
 
 49 seconds remaining
-Accepted connection from ('127.0.0.1', 34124) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34478) (ac1f6b766980)
 llama has joined the game 
 
 48 seconds remaining
-Accepted connection from ('127.0.0.1', 33710) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34488) (ac1f6b766980)
 AgentRL has joined the game 
 
-Accepted connection from ('127.0.0.1', 33718) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 34494) (ac1f6b766980)
 TA -- Increment has joined the game 
 
 47 seconds remaining
@@ -90,31 +90,30 @@ TA -- Increment has joined the game
 2 seconds remaining
 1 seconds remaining
 I have 10 agents connected and I am starting the Lemonade Stand game
-Client AgentRL: ('127.0.0.1', 33710) has disconnected unexpectedly
 Extended Results: 
-                  Agent 1            Agent 2  ... Agent 3 Score              Winner
-0    TA -- Reserve Agent             eugene  ...           911              RANDOM
-1    TA -- Reserve Agent             eugene  ...           911              RANDOM
-2    TA -- Reserve Agent             eugene  ...           911              RANDOM
-3     TA -- Sticky Agent               Ilan  ...           632  TA -- Sticky Agent
-4     TA -- Sticky Agent               Ilan  ...           632  TA -- Sticky Agent
-..                   ...                ...  ...           ...                 ...
-256               RANDOM  PLEASE NAME ME D:  ...           708              RANDOM
-257               RANDOM  PLEASE NAME ME D:  ...           708              RANDOM
-258               RANDOM              llama  ...          1064     TA -- Increment
-259               RANDOM              llama  ...          1064     TA -- Increment
-260               RANDOM              llama  ...          1064     TA -- Increment
+                  Agent 1            Agent 2  ... Agent 3 Score               Winner
+0    TA -- Reserve Agent             eugene  ...           880  TA -- Reserve Agent
+1    TA -- Reserve Agent             eugene  ...           880  TA -- Reserve Agent
+2    TA -- Reserve Agent             eugene  ...           880  TA -- Reserve Agent
+3     TA -- Sticky Agent               Ilan  ...           629   TA -- Sticky Agent
+4     TA -- Sticky Agent               Ilan  ...           629   TA -- Sticky Agent
+..                   ...                ...  ...           ...                  ...
+355               eugene              llama  ...           823      TA -- Increment
+356               eugene              llama  ...           823      TA -- Increment
+357               RANDOM  PLEASE NAME ME D:  ...           803               RANDOM
+358               RANDOM  PLEASE NAME ME D:  ...           803               RANDOM
+359               RANDOM  PLEASE NAME ME D:  ...           803               RANDOM
 
-[261 rows x 7 columns]
-            Agent Name Average Utility   Final Score
-2               RANDOM      877.392857      8.687058
-4                 Ilan      864.714286      8.561528
-6    PLEASE NAME ME D:      824.933333      8.167657
-3   TA -- Sticky Agent      816.428571      8.083451
-1               eugene      810.464286      8.024399
-0  TA -- Reserve Agent      797.285714      7.893918
-5   TA -- Decrementing      789.178571      7.813649
-9      TA -- Increment      785.533333      7.777558
-7                llama      658.233333      6.517162
-8              AgentRL    Disconnected  Disconnected
-Server ran in 101.96995878219604 seconds
+[360 rows x 7 columns]
+            Agent Name  Average Utility  Final Score
+2               RANDOM       865.972222     8.573982
+3   TA -- Sticky Agent       865.194444     8.566282
+4                 Ilan       852.166667     8.437294
+8              AgentRL       825.138889     8.169692
+6    PLEASE NAME ME D:       812.222222     8.041804
+5   TA -- Decrementing       810.944444     8.029153
+9      TA -- Increment       795.027778     7.871562
+0  TA -- Reserve Agent       786.527778     7.787404
+1               eugene       783.777778     7.760176
+7                llama       683.027778     6.762651
+Server ran in 120.81550121307373 seconds
