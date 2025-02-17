@@ -1,43 +1,147 @@
 My name is RANDOM
 We are playing Lemonade Stand
 Game 1:
-I am currently playing against llama and TA -- Increment
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 100 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 873 and a average utility of 8.73
+I am currently playing against RANDOM and TA -- Reserve Agent
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 880 and a average utility of 8.8
 Game 2:
-I am currently playing against RANDOM and TA -- Sticky Agent
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 100 times, and Location 11 0 times.
-RANDOM got a total utility of 881 and a average utility of 8.81
-Game 3:
-I am currently playing against TA -- Reserve Agent and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 821 and a average utility of 8.21
-Game 4:
-I am currently playing against TA -- Reserve Agent and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 100 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 1023 and a average utility of 10.23
-Game 5:
-I am currently playing against RANDOM and TA -- Sticky Agent
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 100 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 700 and a average utility of 7.0
-Game 6:
-I am currently playing against TA -- Decrementing and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 97 times, Location 3 0 times, Location 4 0 times, Location 5 3 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 868 and a average utility of 8.68
-Game 7:
-I am currently playing against TA -- Decrementing and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 9 times, Location 5 0 times, Location 6 0 times, Location 7 6 times, Location 8 0 times, Location 9 0 times, Location 10 85 times, and Location 11 0 times.
-RANDOM got a total utility of 917 and a average utility of 9.17
-Game 8:
-I am currently playing against TA -- Sticky Agent and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 100 times.
-RANDOM got a total utility of 989 and a average utility of 9.89
-Game 9:
-I am currently playing against TA -- Sticky Agent and RANDOM
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 100 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-RANDOM got a total utility of 822 and a average utility of 8.22
-Game 10:
 I am currently playing against RANDOM and TA -- Decrementing
-RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 100 times.
+RANDOM set up their Lemonade Stand at Location 0 70 times, Location 1 0 times, Location 2 0 times, Location 3 6 times, Location 4 0 times, Location 5 0 times, Location 6 8 times, Location 7 0 times, Location 8 0 times, Location 9 16 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 756 and a average utility of 7.56
+Game 3:
+I am currently playing against RANDOM and TA -- Decrementing
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 100 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 872 and a average utility of 8.72
+Game 4:
+I am currently playing against RANDOM and TA -- Sticky Agent
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 100 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 530 and a average utility of 5.3
+Game 5:
+I am currently playing against eugene and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 8 times, Location 2 0 times, Location 3 0 times, Location 4 4 times, Location 5 0 times, Location 6 0 times, Location 7 64 times, Location 8 0 times, Location 9 0 times, Location 10 24 times, and Location 11 0 times.
+RANDOM got a total utility of 778 and a average utility of 7.78
+Game 6:
+I am currently playing against eugene and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 38 times, Location 3 0 times, Location 4 0 times, Location 5 37 times, Location 6 0 times, Location 7 0 times, Location 8 22 times, Location 9 0 times, Location 10 0 times, and Location 11 3 times.
+RANDOM got a total utility of 828 and a average utility of 8.28
+Game 7:
+I am currently playing against eugene and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 13 times, Location 1 0 times, Location 2 0 times, Location 3 16 times, Location 4 0 times, Location 5 0 times, Location 6 25 times, Location 7 0 times, Location 8 0 times, Location 9 46 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 798 and a average utility of 7.98
+Game 8:
+I am currently playing against eugene and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 31 times, Location 1 0 times, Location 2 0 times, Location 3 13 times, Location 4 0 times, Location 5 0 times, Location 6 38 times, Location 7 0 times, Location 8 0 times, Location 9 18 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 867 and a average utility of 8.67
+Game 9:
+I am currently playing against RANDOM and Ilan
+RANDOM set up their Lemonade Stand at Location 0 38 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 39 times, Location 7 0 times, Location 8 0 times, Location 9 23 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 800 and a average utility of 8.0
+Game 10:
+I am currently playing against RANDOM and Ilan
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 100 times, Location 10 0 times, and Location 11 0 times.
 RANDOM got a total utility of 600 and a average utility of 6.0
+Game 11:
+I am currently playing against RANDOM and TA -- Sticky Agent
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 6 times, Location 4 0 times, Location 5 0 times, Location 6 3 times, Location 7 0 times, Location 8 0 times, Location 9 91 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 852 and a average utility of 8.52
+Game 12:
+I am currently playing against AgentRL and TA -- Increment
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 100 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 763 and a average utility of 7.63
+Game 13:
+I am currently playing against PLEASE NAME ME D: and llama
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 100 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 766 and a average utility of 7.66
+Game 14:
+I am currently playing against RANDOM and Ilan
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 8 times, Location 3 0 times, Location 4 0 times, Location 5 82 times, Location 6 0 times, Location 7 0 times, Location 8 4 times, Location 9 0 times, Location 10 0 times, and Location 11 6 times.
+RANDOM got a total utility of 882 and a average utility of 8.82
+Game 15:
+I am currently playing against RANDOM and TA -- Sticky Agent
+RANDOM set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 1200 and a average utility of 12.0
+Game 16:
+I am currently playing against RANDOM and TA -- Sticky Agent
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 2 times, Location 9 0 times, Location 10 0 times, and Location 11 98 times.
+RANDOM got a total utility of 901 and a average utility of 9.01
+Game 17:
+I am currently playing against Ilan and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 100 times, and Location 11 0 times.
+RANDOM got a total utility of 616 and a average utility of 6.16
+Game 18:
+I am currently playing against Ilan and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 4 times, Location 3 0 times, Location 4 0 times, Location 5 42 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 54 times.
+RANDOM got a total utility of 880 and a average utility of 8.8
+Game 19:
+I am currently playing against Ilan and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 2 times, Location 3 0 times, Location 4 0 times, Location 5 89 times, Location 6 0 times, Location 7 0 times, Location 8 6 times, Location 9 0 times, Location 10 0 times, and Location 11 3 times.
+RANDOM got a total utility of 870 and a average utility of 8.7
+Game 20:
+I am currently playing against Ilan and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 19 times, Location 3 0 times, Location 4 0 times, Location 5 75 times, Location 6 0 times, Location 7 0 times, Location 8 4 times, Location 9 0 times, Location 10 0 times, and Location 11 2 times.
+RANDOM got a total utility of 914 and a average utility of 9.14
+Game 21:
+I am currently playing against TA -- Sticky Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 925 and a average utility of 9.25
+Game 22:
+I am currently playing against TA -- Sticky Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 100 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 996 and a average utility of 9.96
+Game 23:
+I am currently playing against TA -- Sticky Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 100 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 702 and a average utility of 7.02
+Game 24:
+I am currently playing against TA -- Sticky Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 885 and a average utility of 8.85
+Game 25:
+I am currently playing against TA -- Reserve Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 100 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 1027 and a average utility of 10.27
+Game 26:
+I am currently playing against TA -- Reserve Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 100 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 751 and a average utility of 7.51
+Game 27:
+I am currently playing against TA -- Reserve Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 898 and a average utility of 8.98
+Game 28:
+I am currently playing against TA -- Reserve Agent and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 96 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 4 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 732 and a average utility of 7.32
+Game 29:
+I am currently playing against TA -- Decrementing and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 100 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 846 and a average utility of 8.46
+Game 30:
+I am currently playing against TA -- Decrementing and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 2 times, Location 2 0 times, Location 3 0 times, Location 4 28 times, Location 5 0 times, Location 6 0 times, Location 7 19 times, Location 8 0 times, Location 9 0 times, Location 10 51 times, and Location 11 0 times.
+RANDOM got a total utility of 892 and a average utility of 8.92
+Game 31:
+I am currently playing against TA -- Decrementing and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 100 times, and Location 11 0 times.
+RANDOM got a total utility of 852 and a average utility of 8.52
+Game 32:
+I am currently playing against TA -- Decrementing and RANDOM
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 2 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 98 times, and Location 11 0 times.
+RANDOM got a total utility of 868 and a average utility of 8.68
+Game 33:
+I am currently playing against llama and TA -- Increment
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 100 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 859 and a average utility of 8.59
+Game 34:
+I am currently playing against llama and AgentRL
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 100 times, and Location 11 0 times.
+RANDOM got a total utility of 852 and a average utility of 8.52
+Game 35:
+I am currently playing against PLEASE NAME ME D: and TA -- Increment
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 100 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+RANDOM got a total utility of 728 and a average utility of 7.28
+Game 36:
+I am currently playing against PLEASE NAME ME D: and AgentRL
+RANDOM set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 100 times, and Location 11 0 times.
+RANDOM got a total utility of 801 and a average utility of 8.01
 Please check in with your Lab TA for the results

@@ -2,34 +2,46 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 40100) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 56276) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
-Accepted connection from ('127.0.0.1', 40116) (ac1f6b766980)
-TA -- Decrementing has joined the game 
+Accepted connection from ('127.0.0.1', 56286) (ac1f6b766980)
+Ilan has joined the game 
 
 56 seconds remaining
+Accepted connection from ('127.0.0.1', 56296) (ac1f6b766980)
+TA -- Decrementing has joined the game 
+
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 33822) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 47948) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
 54 seconds remaining
-Accepted connection from ('127.0.0.1', 33832) (ac1f6b766980)
-RANDOM has joined the game 
-
 53 seconds remaining
-Accepted connection from ('127.0.0.1', 33846) (ac1f6b766980)
-llama has joined the game 
+Accepted connection from ('127.0.0.1', 47950) (ac1f6b766980)
+eugene has joined the game 
 
 52 seconds remaining
-Accepted connection from ('127.0.0.1', 33852) (ac1f6b766980)
-TA -- Increment has joined the game 
+Accepted connection from ('127.0.0.1', 47952) (ac1f6b766980)
+RANDOM has joined the game 
 
 51 seconds remaining
 50 seconds remaining
+Accepted connection from ('127.0.0.1', 47968) (ac1f6b766980)
+PLEASE NAME ME D: has joined the game 
+
+Accepted connection from ('127.0.0.1', 47970) (ac1f6b766980)
+llama has joined the game 
+
 49 seconds remaining
+Accepted connection from ('127.0.0.1', 47978) (ac1f6b766980)
+AgentRL has joined the game 
+
 48 seconds remaining
+Accepted connection from ('127.0.0.1', 47988) (ac1f6b766980)
+TA -- Increment has joined the game 
+
 47 seconds remaining
 46 seconds remaining
 45 seconds remaining
@@ -77,76 +89,31 @@ TA -- Increment has joined the game
 3 seconds remaining
 2 seconds remaining
 1 seconds remaining
-I have 6 agents connected and I am starting the Lemonade Stand game
+I have 10 agents connected and I am starting the Lemonade Stand game
 Extended Results: 
-                 Agent 1  ...               Winner
-0    TA -- Sticky Agent  ...   TA -- Decrementing
-1    TA -- Sticky Agent  ...   TA -- Decrementing
-2    TA -- Sticky Agent  ...   TA -- Decrementing
-3                RANDOM  ...               RANDOM
-4                RANDOM  ...               RANDOM
-5                RANDOM  ...               RANDOM
-6    TA -- Sticky Agent  ...   TA -- Sticky Agent
-7    TA -- Sticky Agent  ...   TA -- Sticky Agent
-8    TA -- Sticky Agent  ...   TA -- Sticky Agent
-9   TA -- Reserve Agent  ...      TA -- Increment
-10  TA -- Reserve Agent  ...      TA -- Increment
-11  TA -- Reserve Agent  ...      TA -- Increment
-12  TA -- Reserve Agent  ...  TA -- Reserve Agent
-13  TA -- Reserve Agent  ...  TA -- Reserve Agent
-14  TA -- Reserve Agent  ...  TA -- Reserve Agent
-15   TA -- Sticky Agent  ...   TA -- Decrementing
-16   TA -- Sticky Agent  ...   TA -- Decrementing
-17   TA -- Sticky Agent  ...   TA -- Decrementing
-18   TA -- Sticky Agent  ...   TA -- Decrementing
-19   TA -- Sticky Agent  ...   TA -- Decrementing
-20   TA -- Sticky Agent  ...   TA -- Decrementing
-21  TA -- Reserve Agent  ...               RANDOM
-22  TA -- Reserve Agent  ...               RANDOM
-23  TA -- Reserve Agent  ...               RANDOM
-24   TA -- Sticky Agent  ...   TA -- Sticky Agent
-25   TA -- Sticky Agent  ...   TA -- Sticky Agent
-26   TA -- Sticky Agent  ...   TA -- Sticky Agent
-27   TA -- Decrementing  ...      TA -- Increment
-28   TA -- Decrementing  ...      TA -- Increment
-29   TA -- Decrementing  ...      TA -- Increment
-30   TA -- Decrementing  ...               RANDOM
-31   TA -- Decrementing  ...               RANDOM
-32   TA -- Decrementing  ...               RANDOM
-33   TA -- Sticky Agent  ...                llama
-34   TA -- Sticky Agent  ...                llama
-35   TA -- Sticky Agent  ...                llama
-36   TA -- Sticky Agent  ...      TA -- Increment
-37   TA -- Sticky Agent  ...      TA -- Increment
-38   TA -- Sticky Agent  ...      TA -- Increment
-39   TA -- Decrementing  ...               RANDOM
-40   TA -- Decrementing  ...               RANDOM
-41   TA -- Decrementing  ...               RANDOM
-42   TA -- Decrementing  ...  TA -- Reserve Agent
-43   TA -- Decrementing  ...  TA -- Reserve Agent
-44   TA -- Decrementing  ...  TA -- Reserve Agent
-45   TA -- Sticky Agent  ...               RANDOM
-46   TA -- Sticky Agent  ...               RANDOM
-47   TA -- Sticky Agent  ...               RANDOM
-48   TA -- Sticky Agent  ...   TA -- Sticky Agent
-49   TA -- Sticky Agent  ...   TA -- Sticky Agent
-50   TA -- Sticky Agent  ...   TA -- Sticky Agent
-51   TA -- Decrementing  ...   TA -- Decrementing
-52   TA -- Decrementing  ...   TA -- Decrementing
-53   TA -- Decrementing  ...   TA -- Decrementing
-54   TA -- Decrementing  ...   TA -- Decrementing
-55   TA -- Decrementing  ...   TA -- Decrementing
-56   TA -- Decrementing  ...   TA -- Decrementing
-57   TA -- Sticky Agent  ...      TA -- Increment
-58   TA -- Sticky Agent  ...      TA -- Increment
-59   TA -- Sticky Agent  ...      TA -- Increment
+                  Agent 1            Agent 2  ... Agent 3 Score               Winner
+0    TA -- Reserve Agent             eugene  ...           886  TA -- Reserve Agent
+1    TA -- Reserve Agent             eugene  ...           886  TA -- Reserve Agent
+2    TA -- Reserve Agent             eugene  ...           886  TA -- Reserve Agent
+3     TA -- Sticky Agent               Ilan  ...           636   TA -- Sticky Agent
+4     TA -- Sticky Agent               Ilan  ...           636   TA -- Sticky Agent
+..                   ...                ...  ...           ...                  ...
+355               eugene              llama  ...           754               eugene
+356               eugene              llama  ...           754               eugene
+357               RANDOM  PLEASE NAME ME D:  ...           714    PLEASE NAME ME D:
+358               RANDOM  PLEASE NAME ME D:  ...           714    PLEASE NAME ME D:
+359               RANDOM  PLEASE NAME ME D:  ...           714    PLEASE NAME ME D:
 
-[60 rows x 7 columns]
+[360 rows x 7 columns]
             Agent Name  Average Utility  Final Score
-1   TA -- Decrementing            869.6     8.609901
-3               RANDOM            857.3     8.488119
-5      TA -- Increment            832.7     8.244554
-0   TA -- Sticky Agent            793.6     7.857426
-2  TA -- Reserve Agent            775.5     7.678218
-4                llama            719.3     7.121782
-Server ran in 63.22034192085266 seconds
+8              AgentRL       850.638889     8.422167
+4                 Ilan       845.222222     8.368537
+3   TA -- Sticky Agent       841.611111     8.332783
+2               RANDOM       840.750000     8.324257
+9      TA -- Increment       820.694444     8.125688
+5   TA -- Decrementing       803.722222     7.957646
+6    PLEASE NAME ME D:       800.166667     7.922442
+1               eugene       792.388889     7.845435
+0  TA -- Reserve Agent       758.250000     7.507426
+7                llama       726.555556     7.193619
+Server ran in 122.69284987449646 seconds
