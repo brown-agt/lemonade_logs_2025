@@ -2,65 +2,68 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 33794) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 35120) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
 56 seconds remaining
-Accepted connection from ('127.0.0.1', 33800) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 35136) (ac1f6b766980)
 shroobie has joined the game 
 
 55 seconds remaining
-54 seconds remaining
-Accepted connection from ('127.0.0.1', 33806) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 35146) (ac1f6b766980)
 Ilan has joined the game 
 
+54 seconds remaining
 53 seconds remaining
-Accepted connection from ('127.0.0.1', 33820) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59500) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 52 seconds remaining
 51 seconds remaining
-Accepted connection from ('127.0.0.1', 33832) (ac1f6b766980)
-TA -- Reserve Agent has joined the game 
+Accepted connection from ('127.0.0.1', 59516) (ac1f6b766980)
+chill guy 2.0 has joined the game 
 
 50 seconds remaining
-Accepted connection from ('127.0.0.1', 39080) (ac1f6b766980)
-eugene has joined the game 
+Accepted connection from ('127.0.0.1', 59520) (ac1f6b766980)
+TA -- Reserve Agent has joined the game 
 
 49 seconds remaining
 48 seconds remaining
-Accepted connection from ('127.0.0.1', 39088) (ac1f6b766980)
-RANDOM has joined the game 
+Accepted connection from ('127.0.0.1', 59534) (ac1f6b766980)
+eugene has joined the game 
 
 47 seconds remaining
-Accepted connection from ('127.0.0.1', 39104) (ac1f6b766980)
+46 seconds remaining
+Accepted connection from ('127.0.0.1', 59538) (ac1f6b766980)
+RANDOM has joined the game 
+
+45 seconds remaining
+Accepted connection from ('127.0.0.1', 59540) (ac1f6b766980)
 Gary has joined the game 
 
-46 seconds remaining
-45 seconds remaining
-Accepted connection from ('127.0.0.1', 39112) (ac1f6b766980)
+44 seconds remaining
+43 seconds remaining
+Accepted connection from ('127.0.0.1', 56848) (ac1f6b766980)
 PLEASE NAME ME D: has joined the game 
 
-44 seconds remaining
-Accepted connection from ('127.0.0.1', 39118) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 56864) (ac1f6b766980)
 Acheron has joined the game 
 
-43 seconds remaining
-Accepted connection from ('127.0.0.1', 39124) (ac1f6b766980)
+42 seconds remaining
+Accepted connection from ('127.0.0.1', 56868) (ac1f6b766980)
 llama has joined the game 
 
-Accepted connection from ('127.0.0.1', 39136) (ac1f6b766980)
+41 seconds remaining
+Accepted connection from ('127.0.0.1', 56878) (ac1f6b766980)
 Worst Agent Ever has joined the game 
 
-42 seconds remaining
-Accepted connection from ('127.0.0.1', 39144) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 56890) (ac1f6b766980)
 AgentRL has joined the game 
 
-Accepted connection from ('127.0.0.1', 39160) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 56898) (ac1f6b766980)
 TA -- Increment has joined the game 
 
-41 seconds remaining
 40 seconds remaining
 39 seconds remaining
 38 seconds remaining
@@ -101,36 +104,37 @@ TA -- Increment has joined the game
 3 seconds remaining
 2 seconds remaining
 1 seconds remaining
-I have 14 agents connected and I am starting the Lemonade Stand game
-Client AgentRL: ('127.0.0.1', 39144) has disconnected unexpectedly
+I have 15 agents connected and I am starting the Lemonade Stand game
+Client AgentRL: ('127.0.0.1', 56890) has disconnected unexpectedly
 Extended Results: 
-                  Agent 1  ...              Winner
-0     TA -- Decrementing  ...  TA -- Decrementing
-1     TA -- Decrementing  ...  TA -- Decrementing
-2     TA -- Decrementing  ...  TA -- Decrementing
-3                Acheron  ...             Acheron
-4                Acheron  ...             Acheron
-...                  ...  ...                 ...
-1081               llama  ...             AgentRL
-1082               llama  ...             AgentRL
-1083               llama  ...    Worst Agent Ever
-1084               llama  ...    Worst Agent Ever
-1085               llama  ...    Worst Agent Ever
+                  Agent 1           Agent 2  ... Agent 3 Score            Winner
+0                 eugene            RANDOM  ...           850            RANDOM
+1                 eugene            RANDOM  ...           850            RANDOM
+2                 eugene            RANDOM  ...           850            RANDOM
+3     TA -- Decrementing     chill guy 2.0  ...           680     chill guy 2.0
+4     TA -- Decrementing     chill guy 2.0  ...           680     chill guy 2.0
+...                  ...               ...  ...           ...               ...
+1093             Acheron  Worst Agent Ever  ...           832   TA -- Increment
+1094             Acheron  Worst Agent Ever  ...           832   TA -- Increment
+1095               llama  Worst Agent Ever  ...           805  Worst Agent Ever
+1096               llama  Worst Agent Ever  ...           805  Worst Agent Ever
+1097               llama  Worst Agent Ever  ...           805  Worst Agent Ever
 
-[1086 rows x 7 columns]
+[1098 rows x 7 columns]
              Agent Name Average Utility   Final Score
-9    TA -- Sticky Agent       852.24359      8.438055
-6                RANDOM      846.987179      8.386012
-11                 Ilan      822.423077      8.142803
-1   TA -- Reserve Agent      820.717949       8.12592
-8     PLEASE NAME ME D:      820.358974      8.122366
-3               Acheron      819.205128      8.110942
-2                eugene      807.551282      7.995557
-0    TA -- Decrementing      801.923077      7.939832
-7                  Gary      799.897436      7.919777
-10             shroobie      798.179487      7.902767
-13      TA -- Increment           792.5      7.846535
-5      Worst Agent Ever      785.961039      7.781792
-4                 llama      717.688312      7.105825
-12              AgentRL    Disconnected  Disconnected
-Server ran in 262.1428470611572 seconds
+12   TA -- Sticky Agent      860.153846      8.516375
+2                  Gary      834.935897      8.266692
+9     PLEASE NAME ME D:      824.974359      8.168063
+1                RANDOM      823.320513      8.151688
+4         chill guy 2.0      819.666667      8.115512
+13             shroobie      816.307692      8.082254
+14                 Ilan      811.076923      8.030465
+5   TA -- Reserve Agent      808.102564      8.001015
+3    TA -- Decrementing      805.358974      7.973851
+10              Acheron      799.153846      7.912414
+8       TA -- Increment        794.6625      7.867946
+0                eugene      793.564103       7.85707
+6      Worst Agent Ever      791.379747      7.835443
+11                llama      714.607595      7.075323
+7               AgentRL    Disconnected  Disconnected
+Server ran in 224.9044337272644 seconds
