@@ -2,85 +2,85 @@ The server is hosted at 127.0.0.1 and port 5000
 60 seconds remaining
 59 seconds remaining
 58 seconds remaining
-Accepted connection from ('127.0.0.1', 51448) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 52198) (ac1f6b766980)
 TA -- Sticky Agent has joined the game 
 
 57 seconds remaining
 56 seconds remaining
-Accepted connection from ('127.0.0.1', 51462) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 52200) (ac1f6b766980)
 shroobie has joined the game 
 
 55 seconds remaining
-Accepted connection from ('127.0.0.1', 51472) (ac1f6b766980)
+54 seconds remaining
+Accepted connection from ('127.0.0.1', 52202) (ac1f6b766980)
 Ilan has joined the game 
 
-54 seconds remaining
 53 seconds remaining
-Accepted connection from ('127.0.0.1', 50488) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59360) (ac1f6b766980)
 TA -- Decrementing has joined the game 
 
 52 seconds remaining
-Accepted connection from ('127.0.0.1', 50492) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59366) (ac1f6b766980)
 chill guy 2.0 has joined the game 
 
 51 seconds remaining
 50 seconds remaining
-Accepted connection from ('127.0.0.1', 50494) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59370) (ac1f6b766980)
 lemon squeezy has joined the game 
 
 49 seconds remaining
-Accepted connection from ('127.0.0.1', 50498) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59386) (ac1f6b766980)
 KPAgent has joined the game 
 
 48 seconds remaining
-47 seconds remaining
-Accepted connection from ('127.0.0.1', 50508) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59392) (ac1f6b766980)
 TA -- Reserve Agent has joined the game 
 
+47 seconds remaining
 46 seconds remaining
-Accepted connection from ('127.0.0.1', 50516) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59406) (ac1f6b766980)
 Little Lemonade has joined the game 
 
 45 seconds remaining
 44 seconds remaining
-Accepted connection from ('127.0.0.1', 50522) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 59420) (ac1f6b766980)
 eugene has joined the game 
 
 43 seconds remaining
-Accepted connection from ('127.0.0.1', 57188) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37030) (ac1f6b766980)
 RANDOM has joined the game 
 
 42 seconds remaining
-Accepted connection from ('127.0.0.1', 57192) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37040) (ac1f6b766980)
 Gary has joined the game 
 
 41 seconds remaining
 40 seconds remaining
-Accepted connection from ('127.0.0.1', 57202) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37054) (ac1f6b766980)
 PLEASE NAME ME D: has joined the game 
 
 39 seconds remaining
-Accepted connection from ('127.0.0.1', 57214) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37056) (ac1f6b766980)
 Acheron has joined the game 
 
 38 seconds remaining
-Accepted connection from ('127.0.0.1', 57222) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37066) (ac1f6b766980)
 llama has joined the game 
 
-Accepted connection from ('127.0.0.1', 57230) (ac1f6b766980)
+37 seconds remaining
+Accepted connection from ('127.0.0.1', 37070) (ac1f6b766980)
 Worst Agent Ever has joined the game 
 
-37 seconds remaining
-Accepted connection from ('127.0.0.1', 57238) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37072) (ac1f6b766980)
 AgentRL has joined the game 
 
-Accepted connection from ('127.0.0.1', 57250) (ac1f6b766980)
+Accepted connection from ('127.0.0.1', 37076) (ac1f6b766980)
 TA -- Increment has joined the game 
 
-Accepted connection from ('127.0.0.1', 57254) (ac1f6b766980)
+36 seconds remaining
+Accepted connection from ('127.0.0.1', 37086) (ac1f6b766980)
 Max has joined the game 
 
-36 seconds remaining
 35 seconds remaining
 34 seconds remaining
 33 seconds remaining
@@ -117,41 +117,41 @@ Max has joined the game
 2 seconds remaining
 1 seconds remaining
 I have 19 agents connected and I am starting the Lemonade Stand game
-Client AgentRL: ('127.0.0.1', 57238) has disconnected unexpectedly
-Client lemon squeezy: ('127.0.0.1', 50494) has disconnected unexpectedly
+Client AgentRL: ('127.0.0.1', 37072) has disconnected unexpectedly
+Client lemon squeezy: ('127.0.0.1', 59370) has disconnected unexpectedly
 Extended Results: 
                 Agent 1            Agent 2  ... Agent 3 Score             Winner
-0               eugene             RANDOM  ...           871             RANDOM
-1               eugene             RANDOM  ...           871             RANDOM
-2               eugene             RANDOM  ...           871             RANDOM
-3     Worst Agent Ever            AgentRL  ...           830            AgentRL
-4     Worst Agent Ever            AgentRL  ...           830            AgentRL
+0               eugene             RANDOM  ...           933               Gary
+1               eugene             RANDOM  ...           933               Gary
+2               eugene             RANDOM  ...           933               Gary
+3     Worst Agent Ever            AgentRL  ...           813            AgentRL
+4     Worst Agent Ever            AgentRL  ...           813            AgentRL
 ...                ...                ...  ...           ...                ...
-2323              Gary  PLEASE NAME ME D:  ...           753  PLEASE NAME ME D:
-2324              Gary  PLEASE NAME ME D:  ...           753  PLEASE NAME ME D:
-2325            RANDOM   Worst Agent Ever  ...           862                Max
-2326            RANDOM   Worst Agent Ever  ...           862                Max
-2327            RANDOM   Worst Agent Ever  ...           862                Max
+2317              Gary  PLEASE NAME ME D:  ...           758  PLEASE NAME ME D:
+2318              Gary  PLEASE NAME ME D:  ...           758  PLEASE NAME ME D:
+2319            RANDOM   Worst Agent Ever  ...           873                Max
+2320            RANDOM   Worst Agent Ever  ...           873                Max
+2321            RANDOM   Worst Agent Ever  ...           873                Max
 
-[2328 rows x 7 columns]
+[2322 rows x 7 columns]
              Agent Name Average Utility   Final Score
-15   TA -- Sticky Agent      852.294118      8.438556
-1                RANDOM      836.584615      8.283016
-12    PLEASE NAME ME D:      823.457364      8.153043
-17                 Ilan      823.216418      8.150658
-16             shroobie      821.191176      8.130606
-7         chill guy 2.0          820.25      8.121287
-10  TA -- Reserve Agent      818.902256      8.107943
-2                  Gary      812.232558      8.041907
-11      Little Lemonade      808.338583      8.003352
-9               KPAgent       805.05303      7.970822
-0                eugene      800.030769      7.921097
-18                  Max      799.671875      7.917543
-6    TA -- Decrementing      794.432836      7.865672
-13              Acheron      793.488372      7.856321
-5       TA -- Increment       790.44186      7.826157
-3      Worst Agent Ever           781.2      7.734653
-14                llama           736.8       7.29505
-8         lemon squeezy    Disconnected  Disconnected
+15   TA -- Sticky Agent      876.058824       8.67385
+1                RANDOM      846.415385       8.38035
+17                 Ilan      818.880597      8.107729
+10        chill guy 2.0      818.830882      8.107236
+16             shroobie      817.669118      8.095734
+12    PLEASE NAME ME D:      816.726562      8.086402
+7   TA -- Reserve Agent      814.879699      8.068116
+8       Little Lemonade      813.141732      8.050908
+6               KPAgent      806.340909      7.983573
+2                  Gary      806.031008      7.980505
+18                  Max       804.21875      7.962562
+0                eugene      796.084615      7.882026
+9    TA -- Decrementing      794.507463      7.866411
+13              Acheron      794.046875       7.86185
+5       TA -- Increment      791.775194      7.839358
+3      Worst Agent Ever      787.271318      7.794766
+14                llama      721.891473       7.14744
 4               AgentRL    Disconnected  Disconnected
-Server ran in 402.29206681251526 seconds
+11        lemon squeezy    Disconnected  Disconnected
+Server ran in 397.260639667511 seconds
