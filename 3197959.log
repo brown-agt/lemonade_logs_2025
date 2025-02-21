@@ -3,7 +3,7 @@ random set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Lo
 random got a total utility of 9000 and a average utility of 9.0
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug1 got a total utility of 9000 and a average utility of 9.0
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1000 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1000 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug2 got a total utility of 6000 and a average utility of 6.0
 Game 2: random VS Bug1 VS Bug3
 random set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
@@ -21,18 +21,18 @@ Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Lo
 Bug4 got a total utility of 6000 and a average utility of 6.0
 Game 4: random VS Bug2 VS Bug3
 random set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
-random got a total utility of 7004 and a average utility of 7.004
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 1000 times, and Location 11 0 times.
-Bug2 got a total utility of 6831 and a average utility of 6.831
+random got a total utility of 8328 and a average utility of 8.328
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 1000 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+Bug2 got a total utility of 8172 and a average utility of 8.172
 Bug3 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 166 times, Location 3 0 times, Location 4 166 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 167 times, Location 9 0 times, Location 10 167 times, and Location 11 0 times.
-Bug3 got a total utility of 10165 and a average utility of 10.165
+Bug3 got a total utility of 7500 and a average utility of 7.5
 Game 5: random VS Bug2 VS Bug4
 random set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
-random got a total utility of 8328 and a average utility of 8.328
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1000 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-Bug2 got a total utility of 8166 and a average utility of 8.166
+random got a total utility of 6000 and a average utility of 6.0
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
+Bug2 got a total utility of 6000 and a average utility of 6.0
 Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 167 times, Location 3 0 times, Location 4 167 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 166 times, Location 9 0 times, Location 10 166 times, and Location 11 0 times.
-Bug4 got a total utility of 7506 and a average utility of 7.506
+Bug4 got a total utility of 12000 and a average utility of 12.0
 Game 6: random VS Bug3 VS Bug4
 random set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
 random got a total utility of 8004 and a average utility of 8.004
@@ -42,18 +42,18 @@ Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Lo
 Bug4 got a total utility of 8000 and a average utility of 8.0
 Game 7: Bug1 VS Bug2 VS Bug3
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-Bug1 got a total utility of 9002 and a average utility of 9.002
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
-Bug2 got a total utility of 8998 and a average utility of 8.998
+Bug1 got a total utility of 8340 and a average utility of 8.34
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 1000 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+Bug2 got a total utility of 8163 and a average utility of 8.163
 Bug3 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 166 times, Location 3 0 times, Location 4 166 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 167 times, Location 9 0 times, Location 10 167 times, and Location 11 0 times.
-Bug3 got a total utility of 6000 and a average utility of 6.0
+Bug3 got a total utility of 7497 and a average utility of 7.497
 Game 8: Bug1 VS Bug2 VS Bug4
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-Bug1 got a total utility of 8998 and a average utility of 8.998
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 1000 times.
-Bug2 got a total utility of 9002 and a average utility of 9.002
+Bug1 got a total utility of 6000 and a average utility of 6.0
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+Bug2 got a total utility of 6000 and a average utility of 6.0
 Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 167 times, Location 3 0 times, Location 4 167 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 166 times, Location 9 0 times, Location 10 166 times, and Location 11 0 times.
-Bug4 got a total utility of 6000 and a average utility of 6.0
+Bug4 got a total utility of 12000 and a average utility of 12.0
 Game 9: Bug1 VS Bug3 VS Bug4
 Bug1 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 1000 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 Bug1 got a total utility of 8004 and a average utility of 8.004
@@ -62,28 +62,28 @@ Bug3 got a total utility of 8000 and a average utility of 8.0
 Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 167 times, Location 3 0 times, Location 4 167 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 166 times, Location 9 0 times, Location 10 166 times, and Location 11 0 times.
 Bug4 got a total utility of 7996 and a average utility of 7.996
 Game 10: Bug2 VS Bug3 VS Bug4
-Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 1000 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-Bug2 got a total utility of 8004 and a average utility of 8.004
+Bug2 set up their Lemonade Stand at Location 0 0 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 1000 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+Bug2 got a total utility of 7336 and a average utility of 7.336
 Bug3 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 166 times, Location 3 0 times, Location 4 166 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 167 times, Location 9 0 times, Location 10 167 times, and Location 11 0 times.
-Bug3 got a total utility of 7996 and a average utility of 7.996
+Bug3 got a total utility of 8332 and a average utility of 8.332
 Bug4 set up their Lemonade Stand at Location 0 167 times, Location 1 0 times, Location 2 167 times, Location 3 0 times, Location 4 167 times, Location 5 0 times, Location 6 167 times, Location 7 0 times, Location 8 166 times, Location 9 0 times, Location 10 166 times, and Location 11 0 times.
-Bug4 got a total utility of 8000 and a average utility of 8.0
+Bug4 got a total utility of 8332 and a average utility of 8.332
 Extended Results: 
    Agent 1 Agent 2 Agent 3  Agent 1 Score  Agent 2 Score  Agent 3 Score  Winner
 0  random    Bug1    Bug2           9000           9000           6000  random
 1  random    Bug1    Bug3           8998           9002           6000    Bug1
 2  random    Bug1    Bug4           9002           8998           6000  random
-3  random    Bug2    Bug3           7004           6831          10165    Bug3
-4  random    Bug2    Bug4           8328           8166           7506  random
+3  random    Bug2    Bug3           8328           8172           7500  random
+4  random    Bug2    Bug4           6000           6000          12000    Bug4
 5  random    Bug3    Bug4           8004           7996           8000  random
-6    Bug1    Bug2    Bug3           9002           8998           6000    Bug1
-7    Bug1    Bug2    Bug4           8998           9002           6000    Bug2
+6    Bug1    Bug2    Bug3           8340           8163           7497    Bug1
+7    Bug1    Bug2    Bug4           6000           6000          12000    Bug4
 8    Bug1    Bug3    Bug4           8004           8000           7996    Bug1
-9    Bug2    Bug3    Bug4           8004           7996           8000    Bug2
+9    Bug2    Bug3    Bug4           7336           8332           8332    Bug3
 Results: 
    Agent Name  Average Utility  Final Score
-1       Bug1      8834.000000     8.834000
-0     random      8389.333333     8.389333
-2       Bug2      7833.500000     7.833500
-3       Bug3      7692.833333     7.692833
-4       Bug4      7250.333333     7.250333
+4       Bug4      9054.666667     9.054667
+1       Bug1      8224.000000     8.224000
+0     random      8222.000000     8.222000
+3       Bug3      7554.166667     7.554167
+2       Bug2      6945.166667     6.945167
