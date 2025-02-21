@@ -2,20 +2,20 @@ My name is AgentRL
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against secret_agent_man and AgentRL
-AgentRL set up their Lemonade Stand at Location 0 22 times, Location 1 2 times, Location 2 4 times, Location 3 4 times, Location 4 6 times, Location 5 4 times, Location 6 4 times, Location 7 6 times, Location 8 16 times, Location 9 17 times, Location 10 9 times, and Location 11 6 times.
-AgentRL got a total utility of 838 and a average utility of 8.38
+AgentRL set up their Lemonade Stand at Location 0 53 times, Location 1 1 times, Location 2 2 times, Location 3 2 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 15 times, Location 8 0 times, Location 9 13 times, Location 10 14 times, and Location 11 0 times.
+AgentRL got a total utility of 739 and a average utility of 7.39
 Game 2:
 I am currently playing against TA -- Increment and Max
-AgentRL set up their Lemonade Stand at Location 0 15 times, Location 1 0 times, Location 2 3 times, Location 3 6 times, Location 4 6 times, Location 5 20 times, Location 6 14 times, Location 7 10 times, Location 8 10 times, Location 9 14 times, Location 10 2 times, and Location 11 0 times.
-AgentRL got a total utility of 833 and a average utility of 8.33
+AgentRL set up their Lemonade Stand at Location 0 17 times, Location 1 2 times, Location 2 3 times, Location 3 4 times, Location 4 4 times, Location 5 16 times, Location 6 14 times, Location 7 12 times, Location 8 11 times, Location 9 16 times, Location 10 0 times, and Location 11 1 times.
+AgentRL got a total utility of 847 and a average utility of 8.47
 Game 3:
 I am currently playing against TA -- Increment and AK
-AgentRL set up their Lemonade Stand at Location 0 10 times, Location 1 7 times, Location 2 6 times, Location 3 7 times, Location 4 11 times, Location 5 4 times, Location 6 7 times, Location 7 4 times, Location 8 4 times, Location 9 25 times, Location 10 7 times, and Location 11 8 times.
-AgentRL got a total utility of 766 and a average utility of 7.66
+AgentRL set up their Lemonade Stand at Location 0 11 times, Location 1 9 times, Location 2 6 times, Location 3 5 times, Location 4 8 times, Location 5 3 times, Location 6 7 times, Location 7 11 times, Location 8 9 times, Location 9 19 times, Location 10 5 times, and Location 11 7 times.
+AgentRL got a total utility of 788 and a average utility of 7.88
 Game 4:
 I am currently playing against AgentRL and Worst Agent Ever
-AgentRL set up their Lemonade Stand at Location 0 16 times, Location 1 5 times, Location 2 7 times, Location 3 10 times, Location 4 7 times, Location 5 7 times, Location 6 6 times, Location 7 13 times, Location 8 2 times, Location 9 16 times, Location 10 5 times, and Location 11 6 times.
-AgentRL got a total utility of 818 and a average utility of 8.18
+AgentRL set up their Lemonade Stand at Location 0 20 times, Location 1 9 times, Location 2 9 times, Location 3 9 times, Location 4 4 times, Location 5 1 times, Location 6 3 times, Location 7 14 times, Location 8 3 times, Location 9 15 times, Location 10 2 times, and Location 11 11 times.
+AgentRL got a total utility of 823 and a average utility of 8.23
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/6897664/submission/my_agent.py", line 61, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
