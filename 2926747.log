@@ -2,44 +2,16 @@ My name is AK
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against Max and AK
-AK set up their Lemonade Stand at Location 0 8 times, Location 1 4 times, Location 2 8 times, Location 3 10 times, Location 4 17 times, Location 5 12 times, Location 6 6 times, Location 7 6 times, Location 8 11 times, Location 9 6 times, Location 10 4 times, and Location 11 8 times.
-AK got a total utility of 982 and a average utility of 9.82
+AK set up their Lemonade Stand at Location 0 7 times, Location 1 12 times, Location 2 10 times, Location 3 5 times, Location 4 12 times, Location 5 3 times, Location 6 9 times, Location 7 7 times, Location 8 6 times, Location 9 10 times, Location 10 9 times, and Location 11 10 times.
+AK got a total utility of 1017 and a average utility of 10.17
 Game 2:
 I am currently playing against Simple Mover and geriatric_agent
-AK set up their Lemonade Stand at Location 0 10 times, Location 1 15 times, Location 2 9 times, Location 3 9 times, Location 4 9 times, Location 5 0 times, Location 6 10 times, Location 7 5 times, Location 8 12 times, Location 9 8 times, Location 10 8 times, and Location 11 5 times.
-AK got a total utility of 826 and a average utility of 8.26
+AK set up their Lemonade Stand at Location 0 6 times, Location 1 9 times, Location 2 6 times, Location 3 10 times, Location 4 7 times, Location 5 8 times, Location 6 9 times, Location 7 9 times, Location 8 10 times, Location 9 8 times, Location 10 10 times, and Location 11 8 times.
+AK got a total utility of 762 and a average utility of 7.62
 Game 3:
 I am currently playing against AK and AgentRL
-AK set up their Lemonade Stand at Location 0 14 times, Location 1 6 times, Location 2 6 times, Location 3 6 times, Location 4 5 times, Location 5 9 times, Location 6 4 times, Location 7 10 times, Location 8 11 times, Location 9 12 times, Location 10 10 times, and Location 11 7 times.
-AK got a total utility of 841 and a average utility of 8.41
-Game 4:
-I am currently playing against Max and AK
-AK set up their Lemonade Stand at Location 0 9 times, Location 1 8 times, Location 2 8 times, Location 3 11 times, Location 4 6 times, Location 5 7 times, Location 6 12 times, Location 7 10 times, Location 8 7 times, Location 9 6 times, Location 10 4 times, and Location 11 12 times.
-AK got a total utility of 649 and a average utility of 6.49
-Game 5:
-I am currently playing against Simple Mover and aggressive lemonade seller
-AK set up their Lemonade Stand at Location 0 12 times, Location 1 9 times, Location 2 5 times, Location 3 6 times, Location 4 9 times, Location 5 7 times, Location 6 8 times, Location 7 12 times, Location 8 7 times, Location 9 5 times, Location 10 10 times, and Location 11 10 times.
-AK got a total utility of 847 and a average utility of 8.47
-Game 6:
-I am currently playing against AK and secret_agent_man
-AK set up their Lemonade Stand at Location 0 7 times, Location 1 4 times, Location 2 7 times, Location 3 8 times, Location 4 13 times, Location 5 9 times, Location 6 9 times, Location 7 14 times, Location 8 7 times, Location 9 6 times, Location 10 5 times, and Location 11 11 times.
-AK got a total utility of 775 and a average utility of 7.75
-Game 7:
-I am currently playing against geriatric_agent and aggressive lemonade seller
-AK set up their Lemonade Stand at Location 0 5 times, Location 1 4 times, Location 2 7 times, Location 3 7 times, Location 4 9 times, Location 5 9 times, Location 6 12 times, Location 7 5 times, Location 8 13 times, Location 9 11 times, Location 10 7 times, and Location 11 11 times.
-AK got a total utility of 605 and a average utility of 6.05
-Game 8:
-I am currently playing against AK and secret_agent_man
-AK set up their Lemonade Stand at Location 0 4 times, Location 1 7 times, Location 2 6 times, Location 3 8 times, Location 4 12 times, Location 5 17 times, Location 6 4 times, Location 7 9 times, Location 8 15 times, Location 9 5 times, Location 10 7 times, and Location 11 6 times.
-AK got a total utility of 819 and a average utility of 8.19
-Game 9:
-I am currently playing against AK and llama
-AK set up their Lemonade Stand at Location 0 7 times, Location 1 5 times, Location 2 9 times, Location 3 10 times, Location 4 7 times, Location 5 8 times, Location 6 10 times, Location 7 8 times, Location 8 10 times, Location 9 4 times, Location 10 13 times, and Location 11 9 times.
-AK got a total utility of 794 and a average utility of 7.94
-Game 10:
-I am currently playing against AK and TA -- Increment
-AK set up their Lemonade Stand at Location 0 11 times, Location 1 4 times, Location 2 8 times, Location 3 3 times, Location 4 8 times, Location 5 8 times, Location 6 11 times, Location 7 9 times, Location 8 10 times, Location 9 10 times, Location 10 9 times, and Location 11 9 times.
-AK got a total utility of 803 and a average utility of 8.03
+AK set up their Lemonade Stand at Location 0 6 times, Location 1 7 times, Location 2 9 times, Location 3 6 times, Location 4 6 times, Location 5 9 times, Location 6 9 times, Location 7 14 times, Location 8 3 times, Location 9 7 times, Location 10 13 times, and Location 11 11 times.
+AK got a total utility of 760 and a average utility of 7.6
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/2926747/submission/my_agent.py", line 92, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
