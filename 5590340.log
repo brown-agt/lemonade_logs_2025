@@ -1,13 +1,5 @@
 My name is zubin
 We are playing Lemonade Stand
-Game 1:
-I am currently playing against Acheron and llama
-zubin set up their Lemonade Stand at Location 0 3 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 786 and a average utility of 7.86
-Game 2:
-I am currently playing against zubin and RANDOM
-zubin set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 596 and a average utility of 5.96
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_agent.py", line 46, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
@@ -16,7 +8,7 @@ Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/agents/base_agents/lemonade_agent.py", line 77, in play
     action = self.get_action()
              ^^^^^^^^^^^^^^^^^
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_lemonade_agent.py", line 47, in get_action
-    fij = max(fi, fj)
-          ^^^^^^^^^^^
-TypeError: '>' not supported between instances of 'float' and 'complex'
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_lemonade_agent.py", line 50, in get_action
+    if si > max(fi, sj, fj) + self.tol:
+            ^^^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'complex' and 'float'
