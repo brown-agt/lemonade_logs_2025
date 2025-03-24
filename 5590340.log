@@ -2,12 +2,40 @@ My name is zubin
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against Acheron and llama
-zubin set up their Lemonade Stand at Location 0 2 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 1 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 819 and a average utility of 8.19
+zubin set up their Lemonade Stand at Location 0 2 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 98 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin got a total utility of 803 and a average utility of 8.03
 Game 2:
 I am currently playing against zubin and RANDOM
 zubin set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 670 and a average utility of 6.7
+zubin got a total utility of 606 and a average utility of 6.06
+Game 3:
+I am currently playing against llama and Worst Agent Ever
+zubin set up their Lemonade Stand at Location 0 13 times, Location 1 8 times, Location 2 12 times, Location 3 3 times, Location 4 12 times, Location 5 6 times, Location 6 10 times, Location 7 10 times, Location 8 8 times, Location 9 8 times, Location 10 7 times, and Location 11 3 times.
+zubin got a total utility of 792 and a average utility of 7.92
+Game 4:
+I am currently playing against Acheron and Worst Agent Ever
+zubin set up their Lemonade Stand at Location 0 4 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 96 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin got a total utility of 844 and a average utility of 8.44
+Game 5:
+I am currently playing against zubin and simple util learner
+zubin set up their Lemonade Stand at Location 0 25 times, Location 1 5 times, Location 2 5 times, Location 3 5 times, Location 4 2 times, Location 5 1 times, Location 6 1 times, Location 7 0 times, Location 8 5 times, Location 9 1 times, Location 10 2 times, and Location 11 48 times.
+zubin got a total utility of 672 and a average utility of 6.72
+Game 6:
+I am currently playing against llama and secret_agent_man
+zubin set up their Lemonade Stand at Location 0 19 times, Location 1 0 times, Location 2 1 times, Location 3 0 times, Location 4 0 times, Location 5 2 times, Location 6 2 times, Location 7 0 times, Location 8 9 times, Location 9 61 times, Location 10 3 times, and Location 11 3 times.
+zubin got a total utility of 949 and a average utility of 9.49
+Game 7:
+I am currently playing against zubin and eugene
+zubin set up their Lemonade Stand at Location 0 15 times, Location 1 6 times, Location 2 6 times, Location 3 13 times, Location 4 8 times, Location 5 12 times, Location 6 8 times, Location 7 8 times, Location 8 6 times, Location 9 4 times, Location 10 9 times, and Location 11 5 times.
+zubin got a total utility of 785 and a average utility of 7.85
+Game 8:
+I am currently playing against zubin and eugene
+zubin set up their Lemonade Stand at Location 0 3 times, Location 1 13 times, Location 2 4 times, Location 3 14 times, Location 4 10 times, Location 5 5 times, Location 6 7 times, Location 7 13 times, Location 8 5 times, Location 9 9 times, Location 10 10 times, and Location 11 7 times.
+zubin got a total utility of 729 and a average utility of 7.29
+Game 9:
+I am currently playing against zubin and simple util learner
+zubin set up their Lemonade Stand at Location 0 9 times, Location 1 6 times, Location 2 45 times, Location 3 14 times, Location 4 5 times, Location 5 4 times, Location 6 2 times, Location 7 0 times, Location 8 2 times, Location 9 2 times, Location 10 4 times, and Location 11 7 times.
+zubin got a total utility of 731 and a average utility of 7.31
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_agent.py", line 46, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
