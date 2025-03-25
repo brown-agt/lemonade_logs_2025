@@ -2,24 +2,12 @@ My name is zubin
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against Acheron and llama
-zubin set up their Lemonade Stand at Location 0 2 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 98 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 789 and a average utility of 7.89
+zubin set up their Lemonade Stand at Location 0 3 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin got a total utility of 790 and a average utility of 7.9
 Game 2:
 I am currently playing against zubin and RANDOM
-zubin set up their Lemonade Stand at Location 0 74 times, Location 1 26 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 669 and a average utility of 6.69
-Game 3:
-I am currently playing against llama and Worst Agent Ever
-zubin set up their Lemonade Stand at Location 0 12 times, Location 1 10 times, Location 2 2 times, Location 3 2 times, Location 4 14 times, Location 5 6 times, Location 6 10 times, Location 7 8 times, Location 8 8 times, Location 9 4 times, Location 10 7 times, and Location 11 17 times.
-zubin got a total utility of 765 and a average utility of 7.65
-Game 4:
-I am currently playing against Acheron and Worst Agent Ever
-zubin set up their Lemonade Stand at Location 0 3 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 890 and a average utility of 8.9
-Game 5:
-I am currently playing against zubin and simple util learner
-zubin set up their Lemonade Stand at Location 0 25 times, Location 1 5 times, Location 2 5 times, Location 3 5 times, Location 4 2 times, Location 5 1 times, Location 6 1 times, Location 7 0 times, Location 8 5 times, Location 9 1 times, Location 10 2 times, and Location 11 48 times.
-zubin got a total utility of 676 and a average utility of 6.76
+zubin set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin got a total utility of 446 and a average utility of 4.46
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_agent.py", line 46, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
@@ -28,7 +16,7 @@ Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/agents/base_agents/lemonade_agent.py", line 77, in play
     action = self.get_action()
              ^^^^^^^^^^^^^^^^^
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_lemonade_agent.py", line 47, in get_action
-    fij = max(fi, fj)
-          ^^^^^^^^^^^
-TypeError: '>' not supported between instances of 'float' and 'complex'
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_lemonade_agent.py", line 50, in get_action
+    if si > max(fi, sj, fj) + self.tol:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'complex' and 'float'
