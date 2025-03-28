@@ -2,24 +2,24 @@ My name is zubin
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against Acheron and llama
-zubin set up their Lemonade Stand at Location 0 2 times, Location 1 1 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin set up their Lemonade Stand at Location 0 2 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 98 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
 zubin got a total utility of 813 and a average utility of 8.13
 Game 2:
 I am currently playing against zubin and RANDOM
 zubin set up their Lemonade Stand at Location 0 100 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 0 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 718 and a average utility of 7.18
+zubin got a total utility of 537 and a average utility of 5.37
 Game 3:
 I am currently playing against llama and Worst Agent Ever
-zubin set up their Lemonade Stand at Location 0 9 times, Location 1 1 times, Location 2 5 times, Location 3 8 times, Location 4 15 times, Location 5 7 times, Location 6 13 times, Location 7 20 times, Location 8 3 times, Location 9 3 times, Location 10 13 times, and Location 11 3 times.
-zubin got a total utility of 809 and a average utility of 8.09
+zubin set up their Lemonade Stand at Location 0 11 times, Location 1 4 times, Location 2 10 times, Location 3 12 times, Location 4 3 times, Location 5 2 times, Location 6 3 times, Location 7 12 times, Location 8 20 times, Location 9 5 times, Location 10 7 times, and Location 11 11 times.
+zubin got a total utility of 821 and a average utility of 8.21
 Game 4:
 I am currently playing against Acheron and Worst Agent Ever
-zubin set up their Lemonade Stand at Location 0 2 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 98 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
-zubin got a total utility of 909 and a average utility of 9.09
+zubin set up their Lemonade Stand at Location 0 3 times, Location 1 0 times, Location 2 0 times, Location 3 0 times, Location 4 0 times, Location 5 97 times, Location 6 0 times, Location 7 0 times, Location 8 0 times, Location 9 0 times, Location 10 0 times, and Location 11 0 times.
+zubin got a total utility of 848 and a average utility of 8.48
 Game 5:
 I am currently playing against zubin and simple util learner
-zubin set up their Lemonade Stand at Location 0 47 times, Location 1 15 times, Location 2 10 times, Location 3 4 times, Location 4 2 times, Location 5 2 times, Location 6 1 times, Location 7 1 times, Location 8 1 times, Location 9 6 times, Location 10 7 times, and Location 11 4 times.
-zubin got a total utility of 678 and a average utility of 6.78
+zubin set up their Lemonade Stand at Location 0 63 times, Location 1 13 times, Location 2 4 times, Location 3 2 times, Location 4 2 times, Location 5 1 times, Location 6 1 times, Location 7 2 times, Location 8 2 times, Location 9 2 times, Location 10 3 times, and Location 11 5 times.
+zubin got a total utility of 701 and a average utility of 7.01
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/5590340/submission/my_agent.py", line 46, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
