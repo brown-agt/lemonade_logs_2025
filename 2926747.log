@@ -2,8 +2,40 @@ My name is AK
 We are playing Lemonade Stand
 Game 1:
 I am currently playing against AK and TA -- Increment
-AK set up their Lemonade Stand at Location 0 13 times, Location 1 6 times, Location 2 8 times, Location 3 7 times, Location 4 7 times, Location 5 10 times, Location 6 7 times, Location 7 7 times, Location 8 6 times, Location 9 13 times, Location 10 12 times, and Location 11 4 times.
-AK got a total utility of 783 and a average utility of 7.83
+AK set up their Lemonade Stand at Location 0 8 times, Location 1 13 times, Location 2 11 times, Location 3 6 times, Location 4 6 times, Location 5 8 times, Location 6 10 times, Location 7 6 times, Location 8 7 times, Location 9 7 times, Location 10 5 times, and Location 11 13 times.
+AK got a total utility of 800 and a average utility of 8.0
+Game 2:
+I am currently playing against Max and AK
+AK set up their Lemonade Stand at Location 0 13 times, Location 1 11 times, Location 2 11 times, Location 3 10 times, Location 4 11 times, Location 5 6 times, Location 6 8 times, Location 7 4 times, Location 8 9 times, Location 9 5 times, Location 10 2 times, and Location 11 10 times.
+AK got a total utility of 1065 and a average utility of 10.65
+Game 3:
+I am currently playing against TA -- Increment and AK
+AK set up their Lemonade Stand at Location 0 12 times, Location 1 8 times, Location 2 13 times, Location 3 6 times, Location 4 7 times, Location 5 8 times, Location 6 7 times, Location 7 6 times, Location 8 11 times, Location 9 5 times, Location 10 9 times, and Location 11 8 times.
+AK got a total utility of 756 and a average utility of 7.56
+Game 4:
+I am currently playing against Simple Mover and geriatric_agent
+AK set up their Lemonade Stand at Location 0 6 times, Location 1 12 times, Location 2 8 times, Location 3 10 times, Location 4 9 times, Location 5 6 times, Location 6 11 times, Location 7 3 times, Location 8 15 times, Location 9 6 times, Location 10 5 times, and Location 11 9 times.
+AK got a total utility of 791 and a average utility of 7.91
+Game 5:
+I am currently playing against AK and AgentRL
+AK set up their Lemonade Stand at Location 0 5 times, Location 1 8 times, Location 2 11 times, Location 3 7 times, Location 4 11 times, Location 5 4 times, Location 6 10 times, Location 7 9 times, Location 8 8 times, Location 9 11 times, Location 10 7 times, and Location 11 9 times.
+AK got a total utility of 796 and a average utility of 7.96
+Game 6:
+I am currently playing against Simple Mover and aggressive lemonade seller
+AK set up their Lemonade Stand at Location 0 8 times, Location 1 7 times, Location 2 6 times, Location 3 10 times, Location 4 12 times, Location 5 5 times, Location 6 9 times, Location 7 8 times, Location 8 7 times, Location 9 8 times, Location 10 9 times, and Location 11 11 times.
+AK got a total utility of 791 and a average utility of 7.91
+Game 7:
+I am currently playing against AK and secret_agent_man
+AK set up their Lemonade Stand at Location 0 8 times, Location 1 5 times, Location 2 8 times, Location 3 6 times, Location 4 18 times, Location 5 11 times, Location 6 6 times, Location 7 7 times, Location 8 7 times, Location 9 8 times, Location 10 7 times, and Location 11 9 times.
+AK got a total utility of 849 and a average utility of 8.49
+Game 8:
+I am currently playing against AK and secret_agent_man
+AK set up their Lemonade Stand at Location 0 7 times, Location 1 7 times, Location 2 11 times, Location 3 8 times, Location 4 6 times, Location 5 6 times, Location 6 10 times, Location 7 8 times, Location 8 10 times, Location 9 9 times, Location 10 7 times, and Location 11 11 times.
+AK got a total utility of 753 and a average utility of 7.53
+Game 9:
+I am currently playing against TA -- Increment and AK
+AK set up their Lemonade Stand at Location 0 9 times, Location 1 6 times, Location 2 2 times, Location 3 6 times, Location 4 12 times, Location 5 10 times, Location 6 8 times, Location 7 8 times, Location 8 9 times, Location 9 9 times, Location 10 10 times, and Location 11 11 times.
+AK got a total utility of 808 and a average utility of 8.08
 Traceback (most recent call last):
   File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/2926747/submission/my_agent.py", line 92, in <module>
     agent_submission.connect(ip=args.ip, port=args.port)
