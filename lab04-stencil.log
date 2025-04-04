@@ -15,6 +15,6 @@ Error processing line 1 of /ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv
 
 Remainder of file ignored
 Traceback (most recent call last):
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1001/my_agent.py", line 1, in <module>
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/3199469/submission/lab04-stencil/my_agent.py", line 4, in <module>
     from agt_server.agents.base_agents.lemonade_agent import LemonadeAgent
 ModuleNotFoundError: No module named 'agt_server.agents'

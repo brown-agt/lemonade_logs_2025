@@ -15,6 +15,11 @@ Error processing line 1 of /ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv
 
 Remainder of file ignored
 Traceback (most recent call last):
-  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/server/server.py", line 3, in <module>
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1272521/submission/lab04-stencil copy/my_agent.py", line 1, in <module>
+    from my_rl_lemonade_agent import rl_agent_submission 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1272521/submission/lab04-stencil copy/my_rl_lemonade_agent.py", line 1, in <module>
+    from q_learning import QLearning
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lemonade_2025/1272521/submission/lab04-stencil copy/q_learning.py", line 2, in <module>
     import numpy as np
 ModuleNotFoundError: No module named 'numpy'
